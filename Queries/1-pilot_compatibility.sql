@@ -29,5 +29,3 @@ JOIN aircraft_specs aspec ON
 JOIN aircraft_models am ON aspec.model_id = am.model_id
 JOIN companies c ON am.company_id = c.company_id;
 
-select *
-from compatible_aircraft;
