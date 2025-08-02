@@ -4,6 +4,7 @@
 -- Ignores aircraft with 0 or null weight to prevent division errors
 -- =======================================================================
 
+
 CREATE TABLE efficiency_scores AS
 SELECT 
     am.model_name,
