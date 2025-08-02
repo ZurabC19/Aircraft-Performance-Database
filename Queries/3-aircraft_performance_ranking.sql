@@ -4,6 +4,8 @@
 -- Enables performance comparison based on different criteria.
 -- Useful for pilots, engineers, or analysts choosing the best aircraft for a specific mission set.
 -- =======================================================================
+
+
 CREATE TABLE aircraft_performance_rankings AS
 SELECT 
     am.model_name,
