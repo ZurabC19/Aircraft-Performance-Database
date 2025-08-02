@@ -18,4 +18,4 @@ JOIN companies c ON am.company_id = c.company_id
 WHERE aspec.hp_engine IS NOT NULL AND aspec.gross_weight > 0
 ORDER BY hp_per_lb DESC;
 
-SELECT * FROM best_power_to_weight;
+
