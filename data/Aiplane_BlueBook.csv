@@ -1,0 +1,862 @@
+Model,Company,Engine Type,HP or lbs thr ea engine,Max speed Knots,Rcmnd cruise Knots,Stall Knots dirty,Fuel gal/lbs,All eng service ceiling,Eng out service ceiling,All eng rate of climb,Eng out rate of climb,Takeoff over 50ft,Takeoff ground run,Landing over 50ft,Landing ground roll,Gross weight lbs,Empty weight lbs,Length ft/in,Height ft/in,Wing span ft/in,Range N.M.
+15 AC Sedan,Aeronca,Piston,145,104,91,46,36,13000,,450,,900,,1300,,2050,1180,25/3,10/3,37/5,370
+11 CC Super Chief,Aeronca,Piston,85,89,83,44,15,12300,,600,,720,,800,,1350,820,20/7,8/9,36/1,190
+7 CCM Champ,Aeronca,Piston,90,90,78,37,19,16000,,650,,475,,850,,1300,810,21/5,8/7,35/0,210
+7 DC Champ,Aeronca,Piston,85,88,78,37,19,13000,,620,,500,,850,,1300,800,21/5,8/7,35/0,210
+7 AC Champ,Aeronca,Piston,65,83,74,33,14,12500,,370,,632,,885,,1220,740,21/5,8/9,35/0,175
+11 AC Chief,Aeronca,Piston,65,78,72,33,15,11000,,360,,583,,880,,1250,786,20/4,8/9,36/1,180
+PA-60-700P Aerostar (preliminary),Aerostar Aircraft Corporation,Piston,350,264,230,80,165,25000,14500,1820,320,3080,1950,2100,1425,6315,4275,34/10,12/1,36/8,868
+PA-602P Aerostar,Aerostar Aircraft Corporation,Piston,290,262,247,77,165,28000,12900,1755,302,2250,1800,2076,1217,6000,4125,34/9,12/1,36/7,1020
+"PA-601P pressurized Aerostar ('77 service ceiling=26,350)",Aerostar Aircraft Corporation,Piston,290,257,235,77,165,25000,8800,1460,240,2490,1900,2030,1230,6000,4056,34/10,12/1,36/8,1101
+PA-601B turbochg Aerostar (prior'80=less perf),Aerostar Aircraft Corporation,Piston,290,257,237,77,165,30000,8800,1460,240,2490,1900,2030,1230,6000,3958,34/10,12/1,36/8,1174
+"PA-601, 601A, turbochg Aerostar",Aerostar Aircraft Corporation,Piston,290,271,236,69,174,30100,10800,1700,370,2200,1800,1625,980,5700,3750,34/10,12/1,34/2,1174
+"PA-600,600A,-Aerostar",Aerostar Aircraft Corporation,Piston,290,220,212,74,165,21200,6300,1800,360,1950,1550,1840,1040,5500,3737,34/10,12/1,34/2,1200
+G164B Turbine (spec for 680 hp),Ag Cat Corp,Propjet,680,,113,,80,,,,,900,,,,5200,3150,33/1,12/1,42/5,
+G164C-600 AG-CAT (design category) sprayer,Ag Cat Corp,Piston,600,104,91,60,80,,,,,2080,1080,1190,588,6300,3650,30/0,11/5,42/3,235
+G164B-600 AG-CAT (design category) sprayer,Ag Cat Corp,Piston,600,,100,52,64,,,1360,,1050,430,1150,565,5200,3650,25/6,11/6,42/5,200
+G164A-600 AG-CAT (design category),Ag Cat Corp,Piston,600,128,96,59,46,14500,,1600,,860,505,770,410,4500,3160,24/4,10/10,35/11,148
+G164B-525 (design-sprayer) prior'78=25/11 length,Ag Cat Corp,Piston,525,128,91,52,46,,,1350,,,1000,540,1150,567,4500,3150,26/1,42/3,155
+G164B-450 (hopper=325 gal),Ag Cat Corp,Piston,450,,100,,64,,,,,,1300,,,5200,3325,24/2,11/6,42/5,190
+G164B-450 AG CAT (design category) sprayer,Ag Cat Corp,Piston,450,128,91,52,46,14500,,1060,,1090,585,1150,567,4500,3100,25/7,11/0,42/3,190
+G164A-450 AG CAT (design category),Ag Cat Corp,Piston,450,128,91,58,46,14000,,990,,1145,630,750,390,4500,2870,24/4,11/0,35/11,190
+G164A-300 AG CAT,Ag Cat Corp,Piston,300,128,74,54,46,11500,,700,,1200,750,1000,590,3750,2410,24/4,10/9,35/8,226
+G164A-275 AG CAT,Ag Cat Corp,Piston,275,114,74,54,33,10250,,600,,1275,800,1000,590,3750,2400,24/4,10/9,35/8,117
+G164A-245 AG CAT,Ag Cat Corp,Piston,245,114,70,54,33,8500,,496,,1300,825,1000,590,3750,2300,24/4,10/9,35/8,174
+G164A-220 AG CAT,Ag Cat Corp,Piston,220,114,70,48,33,7000,,435,,1360,850,1000,590,3600,2200,24/4,10/9,35/8,190
+A-2,Aircoupe-Alon,Piston,90,112,108,37,24,17300,,640,,1100,540,1200,350,1450,930,20/2,5/1,30/0,410
+F-1,Aircoupe-Alon,Piston,90,113,104,50,24,16000,,600,,1800,1260,1600,600,1400,900,20/1,6/3,30/0,400
+415-G,Aircoupe-Alon,Piston,85,99,96,50,24,13500,,550,,2100,1260,1850,750,1400,833,20/1,6/3,30/0,360
+CH-601-XL/i/650-LS/i,Aircraft Manufacturing & Design LLC,Piston,100,120,113,38,30,12000,,1000,,,,,,1320,770,20/0,6/6,27/0,715
+AT-802A,"Air Tractor, Inc.",Propjet,1295,,166,54,254,,,780,,,2000,,,16000,6751,,,59.2,610
+AT-602,"Air Tractor, Inc.",Propjet,1050,158,126,52,216,8000,,650,,,1830,,,12500,5829,33/6,12/2,56,600
+AT-503A,"Air Tractor, Inc.",Propjet,750,144,126,60,170,,,760,,,1170,,,9200,4488,,,50/0,547
+AT-502,"Air Tractor, Inc.",Propjet,680,144,126,60,170,,,760,,,1170,,,9200,4123,,,50/0,547
+AT-402,"Air Tractor, Inc.",Propjet,680,122,105,46,170,,,1000,,,810,,,7860,3739,,,49/0,574
+AT-401,"Air Tractor, Inc.",Piston,600,136,105,53,126,,,520,,,1318,,,7860,4135,,,49/1,547
+AT-400,"Air Tractor, Inc.",Propjet,680,200,185,55,126,,,1500,,,1000,,,7800,3550,,,45/1,
+AT-302A,"Air Tractor, Inc.",Piston,600,190,182,55,126,,,2500,,,1300,,,7300,3350,,,45/1,
+AT-302,"Air Tractor, Inc.",Piston,600,190,182,55,76,,,2500,,,1000,,,7000,3250,,,45/1,
+AT-301A,"Air Tractor, Inc.",Piston,600,164,152,56,76,,,1500,,,1300,,,7300,3850,,,45/1,
+AT-301,"Air Tractor, Inc.",Piston,600,168,155,56,76,,,1600,,,1300,,,7000,3800,,,45/1,
+8KCAB-180 Super Decathlon (w/optional speed kit),American Champion Aircraft Corporation,Piston,180,158,150,52,40,17200,,1230,,,,,,1800,1315,22/11,7/7,32/0,
+8KCAB-150 F/P prop(w/optional speed kit),American Champion Aircraft Corporation,Piston,150,147,137,52,40,16000,,1000,,,,,,1800,1260,22/11,7/7,32/0,404
+8GCBC (max speed w/8047 fixed-pitch prop),American Champion Aircraft Corporation,Piston,180,135,122,50,35,,,1080,,1090,510,1245,,2150,1315,22/8,8/7,36/2,
+7KCAB,American Champion Aircraft Corporation,Piston,150,116,109,43,39,17000,,1120,,535,375,755,400,1650,1140,22/7,7/7,34/5,411
+7GCB,American Champion Aircraft Corporation,Piston,150,109,103,37,37,18100,,1140,,617,366,718,320,1650,1050,22/9,6/1,34/5,411
+7GCAA,American Champion Aircraft Corporation,Piston,150,113,109,43,39,17000,,1120,,535,375,755,400,1650,1140,22/8,,33/5,411
+7GCBC,American Champion Aircraft Corporation,Piston,150,113,111,39,35,17000,,1145,,457,296,690,310,1650,1150,22/8,,34/3,480
+7GCBC with EDO floats,American Champion Aircraft Corporation,Piston,150,97,90,46,39,16000,,800,,,,,,1800,1290,22/7,6/8,34/6,248
+7ECA,American Champion Aircraft Corporation,Piston,115,109,107,44,35,12000,,725,,716,450,775,400,1650,1067,22/8,,33/5,301
+7EC,American Champion Aircraft Corporation,Piston,90,117,97,38,26,15500,,700,,1240,840,700,400,1450,820,21/6,7/0,35/1,350
+7ACA,American Champion Aircraft Corporation,Piston,60,85,75,38,13,8500,,400,,850,525,,,1220,750,21/11,7/0,35/1,261
+"GA-7 Cougar (twin) '77 svc. ceils=18,300 &4,900",American General Aircraft,Piston,160,168,160,63,80,17400,4250,1160,200,1805,1000,1330,710,3800,2588,29/7,10/4,36/9,680
+AG5B Tiger (prior '79 height=8/0),American General Aircraft,Piston,180,148,139,53,51,13800,,850,,1550,865,1120,410,2400,1360,22/0,7/7,31/6,530
+AA5A Cheetah (prior '79 height=8/0),American General Aircraft,Piston,150,136,127,52,37,12650,,660,,1600,880,1100,380,2200,1323,22/0,8/0,31/6,428
+AA5 Traveler ('75=+ 7 mph speed),American General Aircraft,Piston,150,130,122,50,38,12650,,660,,1600,880,1100,380,2200,1271,22/0,8/0,31/5,503
+AA-1B Trainer,American General Aircraft,Piston,108,120,108,52,24,12750,,705,,1590,890,1100,410,1560,975,19/2,7/6,24/5,348
+AA-1A Trainer,American General Aircraft,Piston,108,120,109,51,24,13750,,765,,1400,725,1065,395,1500,1007,19/3,6/8,24/5,350
+Legend Cub AL11C-100,American Legend Aircraft,Piston,100,90,84,33,20,15000,,700,,,210,,205,1320,845,22/5,7/6,35/6,275
+Husky A-1 (formerly Christen Industries),"Aviat Aircraft, Inc",Piston,180,126,113,36,52,20000,,1500,,,200,,350,1800,1190,22/7,6/7,35/6,696
+S-2D AG Commander,Ayres Corp.,Piston,600,122,96,61,54,15000,,1000,,1200,850,800,500,6000,3400,29/4,8/9,44/4,275
+S-2R-R3S/PZL 600,Ayres Corp.,Piston,600,122,108,57,100,15000,,900,,,775,,500,6000,3700,29/4,9/2,44/4,275
+S-2R-1340/P&W 600 Thrush ('69 length=28/4),Ayres Corp.,Piston,600,122,108,57,100,15000,,900,,,775,,500,6000,3700,29/4,9/2,44/4,275
+S-2R-800 Thrush (prior '76 length =28/11),Ayres Corp.,Piston,800,135,119,50,100,25000,,1350,,,900,,500,6000,4100,29/2,9/2,44/4,257
+S-2R-T34-Turbo (400 gal hopper),Ayres Corp.,Propjet,750,138,130,57,190,25000,,1740,,,600,,500,6000,3600,33/0,9/2,44/5,545
+S-2R-1820/510,Ayres Corp.,Piston,1200,138,135,57,190,28000,,2033,,,550,,950,6000,4990,31/6,9/7,44/5,563
+Allegro,"B Bar D Aviation, Inc.",Piston,80,157,138,46,17,,,1000,,820,490,721,340,1320,622,20/10,6/9,35/5,350
+AT-602,Beechcraft (Hawker Beechcraft),Propjet,1050,158,126,52,216,8000,,650,,,1830,,,12500,5829,33/6,11,56,600
+Beechjet 400 (400A has increased weights),Beechcraft (Hawker Beechcraft),Jet,2900,461,,87,732,41000,26000,3960,1110,,3950,,2830,15780,,48/5,13/9,43/6,1900
+Premier IA,Beechcraft (Hawker Beechcraft),Jet,2300,.80 Mach,.78 Mach,,3670,41000,28000,,586,,3792,,3170,12500,8200,46/0,15/4,44/6,1360
+Starship 2000 (2000A=increased spds & weights),Beechcraft (Hawker Beechcraft),Propjet,1200,335,328,,560,34800,18300,3225,850,3876,,2630,1070,14400,9887,46/1,13/0,54/5,1722
+Super King Air 360,Beechcraft (Hawker Beechcraft),Propjet,1050,312,263,81,1534,35000,,2700,,,3300,,2692,15000,9955,46/8,14/4,57/11,1806
+350 Super King Air,Beechcraft (Hawker Beechcraft),Propjet,1050,314,303,,539,35000,24150,2979,912,,,2508,1272,15000,9051,46/8,14/4,57/11,1966
+300 Super King Air (300LW has decr. weights),Beechcraft (Hawker Beechcraft),Propjet,1050,316,300,,539,35000,22878,2844,867,,,,,14000,8838,43/10,15/0,54/6,1761
+King Air 260,Beechcraft (Hawker Beechcraft),Propjet,850,310,259,80,3645,35000,,2437,,,2111,,2845,12590,8830,43/10,14/10,57/11,1720
+King Air 250,Beechcraft (Hawker Beechcraft),Propjet,850,310,181,,3645,35000,26000,1923,682,,2111,,2845,12500,8330,43/10,14/10,57/11,1582
+B200 Super King Air,Beechcraft (Hawker Beechcraft),Propjet,850,294,279,75,544,35000,21735,2450,740,3345,1942,2845,1760,12500,7538,43/9,15/0,54/6,1972
+"200 Super King Air (prior '79 serv. ceil=31,000)",Beechcraft (Hawker Beechcraft),Propjet,850,290,272,75,544,32880,19150,2450,740,3345,1942,2845,1760,12500,7538,43/9,15/0,54/6,1870
+"B100 King Air (prior '79 serv. ceiling=29,100)",Beechcraft (Hawker Beechcraft),Propjet,715,265,258,83,470,24850,9300,1963,452,2951,1898,2679,1290,11800,7082,39/11,15/5,45/11,1080
+A100 King Air,Beechcraft (Hawker Beechcraft),Propjet,680,248,235,75,470,24850,9300,1963,452,3245,2060,2944,1787,11500,6797,39/11,15/5,45/11,1000
+100 King Air,Beechcraft (Hawker Beechcraft),Propjet,680,248,239,73,374,25900,11800,2200,608,1729,1452,2138,1240,10600,6440,39/9,15/4,45/10,1005
+F90-1 King Air,Beechcraft (Hawker Beechcraft),Propjet,750,279,265,79,470,30450,15300,2455,632,2808,2012,2275,1194,10950,6647,39/10,15/1,45/11,1235
+F90 King Air,Beechcraft (Hawker Beechcraft),Propjet,750,267,261,77,470,29802,14419,2380,600,2856,2090,2275,1194,10950,6549,39/10,15/1,45/11,1235
+E 90 King Air,Beechcraft (Hawker Beechcraft),Propjet,550,250,245,77,474,27620,14390,1870,470,2024,1553,2110,1030,10100,5996,35/6,14/3,50/3,1290
+"C90A King Air (LJ-1063 up) (10,100 g/w=SN1138 up)",Beechcraft (Hawker Beechcraft),Propjet,550,247,240,75,384,30000,15591,2137,626,2261,1629,1672,737,10100,5765,35/6,14/3,50/3,1120
+"C 90,C90-1 (-1 has increased speed)",Beechcraft (Hawker Beechcraft),Propjet,550,223,217,76,384,28100,15050,1955,539,2261,1629,1672,737,9650,5765,35/6,14/3,50/3,1120
+C90 GT King Air,Beechcraft (Hawker Beechcraft),Propjet,550,270,208,,384,30000,19170,1953,474,,2392,,2355,10100,6950,35/6,14/3,50/3,1026
+B 90 King Air,Beechcraft (Hawker Beechcraft),Propjet,550,223,219,74,384,27200,14100,2000,555,2180,1750,2010,980,9650,5685,36/6,14/8,50/3,1185
+A 90 King Air,Beechcraft (Hawker Beechcraft),Propjet,550,223,216,77,384,30200,17700,1900,490,2150,1730,1960,1250,9300,5680,35/6,14/8,45/1,1160
+90 King Air,Beechcraft (Hawker Beechcraft),Propjet,500,243,235,75,384,28400,17700,2000,525,1755,1350,1870,1250,9000,5680,35/6,14/8,45/1,1270
+88 Queen Air pressurized,Beechcraft (Hawker Beechcraft),Piston,380,214,192,71,264,26800,11800,1275,265,1800,1372,2311,1340,8800,6035,35/6,14/3,50/3,902
+B 80 Queen Air 1973 thru 1978,Beechcraft (Hawker Beechcraft),Piston,380,216,196,70,200,26800,11800,1275,210,2556,2007,2572,1620,8800,5277,35/6,14/8,50/3,656
+B 80 Queen Air - specs thru 1972,Beechcraft (Hawker Beechcraft),Piston,380,216,195,71,214,26800,11800,1275,265,1800,1372,2311,1340,8800,5120,35/6,14/3,50/3,716
+A 80 Queen Air,Beechcraft (Hawker Beechcraft),Piston,380,219,200,70,214,28500,13400,1585,275,1800,1500,2143,1510,8500,4900,35/6,14/3,50/3,716
+80 Queen Air,Beechcraft (Hawker Beechcraft),Piston,380,208,191,67,230,28000,12100,1300,180,1450,1060,2070,1160,8000,4800,35/2,14/6,50/3,746
+70 Queen Air,Beechcraft (Hawker Beechcraft),Piston,340,208,186,70,214,30000,14900,1375,230,1675,1269,2107,1244,8200,4995,35/6,14/3,50/4,755
+A 65 Queen Air,Beechcraft (Hawker Beechcraft),Piston,340,208,186,70,214,31300,15500,1300,245,1560,1180,1750,1330,7700,4980,35/6,14/3,45/10,755
+65 Queen Air,Beechcraft (Hawker Beechcraft),Piston,340,200,186,70,180,27000,12100,1300,210,1700,1310,1980,1425,7700,4640,33/3,14/1,45/10,630
+B 60 Duke pressurized (prior '78 t/o run=2006),Beechcraft (Hawker Beechcraft),Piston,380,246,233,73,142,30000,15100,1601,307,2626,2075,3065,1318,6775,4425,33/10,12/4,39/3,1010
+A 60 Duke pressurized,Beechcraft (Hawker Beechcraft),Piston,380,249,240,76,142,30800,15100,1601,307,2626,2006,3065,1318,6775,4175,33/10,12/4,39/3,824
+60 Duke Pressurized,Beechcraft (Hawker Beechcraft),Piston,380,249,236,76,142,31300,15700,1615,319,1660,1253,2340,1590,6725,4100,33/10,12/4,39/3,824
+H 18 Super Twin Beech,Beechcraft (Hawker Beechcraft),Piston,450,204,191,76,198,20300,7900,1400,260,2072,1650,1850,1480,9900,5845,35/2,9/4,49/8,622
+G 18 Super Twin Beech,Beechcraft (Hawker Beechcraft),Piston,450,200,186,73,275,21400,8000,1410,300,1980,1585,1850,1480,9700,5910,35/1,9/6,49/6,880
+E 18 Super Twin Beech,Beechcraft (Hawker Beechcraft),Piston,450,203,187,71,206,23000,8400,1250,290,2079,1655,1569,1480,9300,6150,33/1,9/2,47/7,638
+D 18 S Twin Beech,Beechcraft (Hawker Beechcraft),Piston,450,200,183,67,206,20500,7750,1190,225,1760,1405,1460,1250,8750,5770,33/1,9/2,47/7,632
+"H,J 50 Twin Bonanza supercharged",Beechcraft (Hawker Beechcraft),Piston,340,204,180,72,180,29500,12500,1270,290,1250,975,1840,1280,7300,4480,31/5,11/5,45/9,787
+"E,F,G 50 Twin Bonanza supercharged",Beechcraft (Hawker Beechcraft),Piston,340,209,184,72,180,29500,12500,1320,325,1250,975,1840,1250,7000,4460,31/5,11/5,45/9,813
+"D50,A,B,C,E Twin Bonanza",Beechcraft (Hawker Beechcraft),Piston,295,186,178,62,134,20000,7000,1450,290,1260,1000,1452,1010,6300,4100,31/5,11/5,45/9,670
+C 50 Twin Bonanza,Beechcraft (Hawker Beechcraft),Piston,275,178,161,60,134,20000,6500,1450,300,1260,1000,1375,1000,6000,3956,31/5,11/5,45/2,726
+B 50 Twin Bonanza,Beechcraft (Hawker Beechcraft),Piston,260,177,159,60,134,20000,6500,1450,300,1344,1080,1215,975,6000,3940,31/5,11/5,45/2,733
+50 Twin Bonanza,Beechcraft (Hawker Beechcraft),Piston,260,177,158,56,134,19000,6500,1450,320,1350,1080,1215,975,5500,3800,31/5,11/5,45/2,722
+58 P Baron(325) pressurized (range based on 190 gal fuel),Beechcraft (Hawker Beechcraft),Piston,325,261,232,78,166,25000,12220,1475,223,2643,1555,2427,1378,6200,4026,29/11,9/2,37/10,1013
+58 P Baron-press.('77 hgt=9/6) (range based on 190 gal fuel),Beechcraft (Hawker Beechcraft),Piston,310,256,214,79,166,25000,14400,1529,204,2376,1480,2498,1471,6100,3985,29/10,9/2,37/10,1130
+58 P Baron turbochg.- specs thru 1976,Beechcraft (Hawker Beechcraft),Piston,310,231,207,79,166,25000,13220,1424,205,2761,1654,2498,1471,6100,3985,29/10,9/2,37/10,1104
+58 TC Baron (325) turbochg-non-pressurized,Beechcraft (Hawker Beechcraft),Piston,325,261,232,78,166,25000,13490,1475,270,2643,1555,2427,1378,6200,3788,29/11,9/2,37/10,1013
+58 TC Baron (non-press/turbo) '78 length=9/2,Beechcraft (Hawker Beechcraft),Piston,310,250,214,79,166,25000,14400,1461,204,2376,1480,2498,1471,6100,3780,29/10,9/6,37/10,1130
+58 Baron (300 hp),Beechcraft (Hawker Beechcraft),Piston,300,208,195,74,136,20688,7284,1750,394,2371,1403,2498,1439,5500,3443,29/10,9/6,37/10,1109
+58 Baron ('76 & prior fuel=166 gal opt),Beechcraft (Hawker Beechcraft),Piston,285,208,195,74,136,18600,7000,1660,390,2101,1336,2498,1439,5400,3361,29/10,9/6,37/10,1109
+A56TC Turbo Baron,Beechcraft (Hawker Beechcraft),Piston,380,252,247,73,142,32200,18600,2020,410,1420,1005,2080,1285,5990,3700,29/0,9/3,37/10,737
+56 TC Turbo Baron ('67 & '68 fuel=178 gal opt),Beechcraft (Hawker Beechcraft),Piston,380,252,247,73,142,32200,18600,2020,410,1420,1005,2080,1285,5990,3650,28/3,9/7,37/10,737
+E 55 Baron ('70-'72 fuel=142 gal opt),Beechcraft (Hawker Beechcraft),Piston,285,208,195,73,100,19100,6600,1682,388,968,596,1414,868,5300,3291,29/0,9/2,37/10,934
+"C55, D55 Baron",Beechcraft (Hawker Beechcraft),Piston,285,210,200,67,112,20900,7100,1670,335,968,596,1414,868,5300,3075,28/3,9/7,37/10,550
+B 55 Baron (1978 & up),Beechcraft (Hawker Beechcraft),Piston,260,201,184,73,100,19300,6400,1693,397,2154,1400,2148,1467,5100,3236,28/0,9/7,37/10,739
+B55 (SN955 & up=5000 g/w; SN 502 thru 954 elig 5100 g/w),Beechcraft (Hawker Beechcraft),Piston,260,205,196,68,112,19700,7000,1670,320,1225,910,1370,840,5100,3075,27/0,9/7,37/10,763
+A 55 Baron,Beechcraft (Hawker Beechcraft),Piston,260,200,191,66,112,19500,7600,1700,350,1700,910,1470,960,4880,2960,26/5,9/6,37/8,745
+55 Baron,Beechcraft (Hawker Beechcraft),Piston,260,200,191,66,112,19200,7600,1630,350,1700,1255,1470,1250,4880,2960,25/7,9/6,37/8,745
+E 95 Travel Air (fuel inj.),Beechcraft (Hawker Beechcraft),Piston,180,183,174,61,80,18100,4400,1250,205,1280,1000,1590,980,4200,2650,25/1,9/6,37/1,661
+"B 95A, D 95A Travel Air (fuel inj.)",Beechcraft (Hawker Beechcraft),Piston,180,183,174,61,80,18100,4400,1250,205,2100,1740,1850,1015,4200,2635,25/3,9/6,37/1,661
+"95, B95 Travel Air (95 = 4,000 lb. gross)",Beechcraft (Hawker Beechcraft),Piston,180,183,170,61,80,18100,4400,1250,205,2100,1740,1850,1015,4100,2635,25/3,9/5,37/9,661
+76 Duchess,Beechcraft (Hawker Beechcraft),Piston,180,171,158,60,100,19650,6170,1248,235,2119,1017,1881,1000,3900,2460,29/0,9/6,38/0,843
+B 36 TC Bonanza,Beechcraft (Hawker Beechcraft),Piston,300,213,190,57,102,25000,,1049,,2364,1156,1692,976,3850,2338,27/6,8/5,37/10,957
+A 36 TC Bonanza(prior '80=optl fuel 74 gal),Beechcraft (Hawker Beechcraft),Piston,300,214,190,57,74,25000,,1165,,2012,1176,1449,721,3650,2278,27/6,8/5,33/6,800
+A 36 Bonanza (300 hp),Beechcraft (Hawker Beechcraft),Piston,300,184,169,59,74,18500,,1210,,1913,971,1473,913,3650,2247,27/6,8/5,33/6,720
+A 36 Bonanza ('70 & '71 lgt=26/8) '80 + up fuel= 74 gal,Beechcraft (Hawker Beechcraft),Piston,285,179,168,52,74,16600,,"1,030 w/3bld",,2040,1140,1450,840,3600,2195,27/6,8/5,33/6,697
+36 Bonanza,Beechcraft (Hawker Beechcraft),Piston,285,177,170,56,50,16000,,1015,,1525,1112,1240,683,3600,1980,26/4,8/5,32/10,510
+V 35 A & B-TC Turbo Bonanza,Beechcraft (Hawker Beechcraft),Piston,285,217,200,55,50,29500,,1225,,1320,950,1177,647,3400,2027,26/4,6/6,33/5,600
+V 35B Bonanza ('80 & up=fuel std 74 gal),Beechcraft (Hawker Beechcraft),Piston,285,182,172,51,74,17858,,"1,167 w/3bld",,1769,1002,1324,763,3400,,26/5,7/7,33/6,717
+V 35 A Bonanza,Beechcraft (Hawker Beechcraft),Piston,285,183,177,55,44,17500,,1136,,1320,965,1177,647,3400,1960,26/4,6/6,33/5,536
+V 35 TC Turbo Bonanza,Beechcraft (Hawker Beechcraft),Piston,285,209,195,55,50,26600,,1225,,1320,965,1177,647,3400,1950,26/4,6/6,33/5,580
+V 35 Bonanza,Beechcraft (Hawker Beechcraft),Piston,285,183,177,55,50,17500,,1136,,1320,965,1177,647,3400,1915,26/4,6/6,33/5,543
+S 35 Bonanza,Beechcraft (Hawker Beechcraft),Piston,285,184,178,54,50,18300,,1200,,1225,880,1150,625,3300,1915,26/4,6/6,33/5,543
+"N,P 35 Bonanza",Beechcraft (Hawker Beechcraft),Piston,260,178,170,52,50,19200,,1150,,1260,1050,1100,650,3125,1855,25/2,6/5,33/5,535
+"K,M 35 Bonanza",Beechcraft (Hawker Beechcraft),Piston,250,183,170,52,49,20000,,1170,,1185,950,1050,710,2950,1832,25/1,6/5,33/5,495
+J 35 Bonanza,Beechcraft (Hawker Beechcraft),Piston,250,183,174,50,39,21300,,1250,,1175,925,1050,710,2900,1820,25/1,6/6,32/9,492
+H 35 Bonanza,Beechcraft (Hawker Beechcraft),Piston,240,179,165,50,39,19800,,1225,,1260,1050,1050,710,2900,1820,25/1,6/6,32/9,470
+"E,F,G 35 Bonanza (E=2,725 lb. gross, F=2,750 lb.)",Beechcraft (Hawker Beechcraft),Piston,225,169,160,48,39,19000,,1300,,1270,1060,1025,680,2775,1722,25/1,6/6,32/9,550
+"C, D 35 Bonanza",Beechcraft (Hawker Beechcraft),Piston,205,165,152,48,39,18000,,1100,,1500,1250,975,625,2700,1650,25/1,6/6,32/9,510
+"A,B 35 Bonanza (A=185 hp)",Beechcraft (Hawker Beechcraft),Piston,196,160,148,49,39,17100,,890,,1515,1275,950,625,2650,1575,25/1,6/6,32/9,470
+35 Bonanza,Beechcraft (Hawker Beechcraft),Piston,185,160,150,48,39,18000,,950,,1440,1200,925,580,2550,1458,25/1,6/6,32/9,530
+G 33 Bonanza,Beechcraft (Hawker Beechcraft),Piston,260,177,168,49,50,16600,,1060,,1516,1023,1150,625,3300,1935,25/5,8/3,32/9,513
+F & E 33-C Bonanza (conventional tail),Beechcraft (Hawker Beechcraft),Piston,285,181,174,53,50,18300,,1200,,1225,880,1150,625,3300,1918,25/6,8/3,32/9,520
+F33A ('80 & up fuel std 74 gal),Beechcraft (Hawker Beechcraft),Piston,285,182,172,51,74,17858,,"1,167 w/3bld",,1769,1002,1324,763,3400,2125,26/8,8/3,33/6,717
+E 33 A Bonanza (conventional tail),Beechcraft (Hawker Beechcraft),Piston,285,181,174,53,50,18300,,1200,,1225,880,1150,625,3300,1915,25/6,8/3,32/10,520
+F & E Bonanza (conventional tail),Beechcraft (Hawker Beechcraft),Piston,225,170,161,52,50,17800,,930,,1288,982,1298,643,3050,1862,25/6,8/3,32/10,520
+C 33 A Debonair,Beechcraft (Hawker Beechcraft),Piston,285,181,174,53,50,18300,,1200,,1225,880,1150,632,3300,1775,25/6,8/3,32/10,520
+C 33 Debonair,Beechcraft (Hawker Beechcraft),Piston,225,170,161,52,50,18300,,980,,1288,982,1298,643,3050,1854,25/6,8/3,32/10,568
+"A,B 33 Debonair",Beechcraft (Hawker Beechcraft),Piston,225,170,161,52,50,18400,,960,,1235,982,1282,643,3000,1745,25/6,8/3,32/10,568
+33 Debonair,Beechcraft (Hawker Beechcraft),Piston,225,170,161,52,50,19800,,1010,,1235,940,1282,635,2900,1730,25/5,8/3,32/8,550
+"C-24R Sierra 200 (prior'78 svc. ceil=16,400)",Beechcraft (Hawker Beechcraft),Piston,200,145,137,60,57,15385,,927,,1561,1063,1462,816,2750,1696,25/9,8/1,32/9,647
+B-24R Sierra 200,Beechcraft (Hawker Beechcraft),Piston,200,140,131,55,52,14342,,891,,1804,1169,1519,803,2750,1711,25/8,8/3,32/9,591
+A-24R Sierra 200,Beechcraft (Hawker Beechcraft),Piston,200,148,141,57,59,14350,,862,,1630,1100,1380,760,2750,1610,25/8,8/3,32/9,704
+Super III Musketeer (A-23-24),Beechcraft (Hawker Beechcraft),Piston,200,137,130,52,60,14850,,880,,1380,950,1300,660,2550,1410,25/1,8/2,32/7,643
+C 23 Sundowner (pre '76 fuel=52 gal) pre'82=less mph,Beechcraft (Hawker Beechcraft),Piston,180,128,116,51,57,12600,,792,,1955,1130,1484,703,2450,1494,25/9,8/3,32/9,565
+Custom III Musketeer,Beechcraft (Hawker Beechcraft),Piston,180,127,120,50,60,11870,,728,,1460,990,1260,640,2400,1375,25/1,8/2,32/7,565
+"A 23, A23A Musketeer (A=2,400 lb gross)",Beechcraft (Hawker Beechcraft),Piston,165,127,120,50,60,11870,,880,,1460,990,1260,640,2350,1325,25/1,8/2,32/7,565
+23 Musketeer,Beechcraft (Hawker Beechcraft),Piston,160,123,111,52,60,13500,,720,,1275,925,1260,640,2300,1300,25/1,8/2,32/7,800
+B 19 Sport 150 (76' & prior fuel=52 gal),Beechcraft (Hawker Beechcraft),Piston,150,110,107,50,57,11650,,680,,1635,1030,1693,824,2150,1414,25/9,8/3,32/9,643
+"A 23-19, Sport III, Musketeer",Beechcraft (Hawker Beechcraft),Piston,150,122,114,48,60,14900,,900,,1255,840,1220,590,2200,1325,25/1,8/2,32/7,800
+77 Skipper ('79-'80 height=7/11),Beechcraft (Hawker Beechcraft),Piston,115,106,97,47,29,12900,,720,,1280,780,1313,670,1675,1103,24/0,6/11,30/0,370
+"17-31 ATC Turbo, 300-Lyc. (prior '78=8 gal less)",Bellanca Inc.,Piston,300,193,187,61,68,24000,,1170,,1420,980,1340,835,3325,2372,26/4,7/4,34/2,760
+"17-31A, (prior '78=8 gal less fuel + 6 mph less)",Bellanca Inc.,Piston,300,174,165,61,68,18200,,1170,,1420,980,1340,835,3325,2247,26/4,7/4,34/2,483
+"17-31TC, Turbo Super Viking (Lycoming eng)",Bellanca Inc.,Piston,250,193,187,54,72,24000,,1800,,890,460,1100,575,3200,2010,23/7,7/4,34/2,760
+"17-30A, (1979 & up; 1993 & up + 5 mph; IO-550 +6 mph)",Bellanca Inc.,Piston,300,181,176,61,68,20000,,1210,,1420,,1340,,3325,2185,26/4,7/4,34/2,550
+"17-30A, 300-Cont.('78=8 gal more fuel & +11 mph)",Bellanca Inc.,Piston,300,166,163,61,60,17000,,1085,,1420,980,1340,835,3325,2217,26/4,7/4,34/2,550
+17-30-300 Viking (Continental eng),Bellanca Inc.,Piston,300,167,163,54,58,21000,,1840,,890,450,1050,575,3200,1900,23/7,7/5,34/2,550
+"14-19-3A,260 A,B,C",Bellanca Inc.,Piston,260,181,177,54,58,22500,,1500,,990,550,825,400,3000,1750,23/6,6/5,34/2,639
+14-19-2 Cruisemaster,Bellanca Inc.,Piston,230,179,170,42,40,20000,,1400,,1025,760,1150,470,2700,1640,22/9,6/2,34/2,452
+14-19 Cruisemaster,Bellanca Inc.,Piston,190,174,157,38,40,21500,,1250,,1270,850,1025,450,2600,1575,23/0,6/2,34/2,435
+14-13 Cruiseair Sr.,Bellanca Inc.,Piston,150,147,130,38,40,19500,,1100,,1350,606,975,437,2100,1520,21/2,6/2,34/2,591
+Global 7500,Bombardier Aerospace Business Aircraft,Jet,18920,.925 Mach,.85 Mach,,47450,51000,25000,1850,418,,5760,,2237,114850,61700,111,27,104,7700
+Global 6500,Bombardier Aerospace Business Aircraft,Jet,15125,.90 Mach,.85 Mach,,45050,51000,20500,1762,401,,6145,,2236,99500,52230,99/5,25/6,94,6600
+Global 5500,Bombardier Aerospace Business Aircraft,Jet,15125,.90 Mach,.85 Mach,,39250,51000,20600,2056,523,,5340,,2207,92500,50861,96/10,25/6,94,5900
+Global Express XRS,Bombardier Aerospace Business Aircraft,Jet,14750,.89 Mach,.85 Mach,,44975,51000,18000,,473,,6190,,2670,98000,51200,99/5,25/6,94/0,6190
+60 (standard configuration),Bombardier Aerospace Business Aircraft,Jet,4600,458,,,,51000,,,,5360,,3750,,22750,13922,58/7,14/7,43/8,2740
+55C,Bombardier Aerospace Business Aircraft,Jet,3700,455,,,6690,51000,,,,4900,,3100,,21000,12622,55/1,14/8,43/9,
+Global 6000,Bombardier Aerospace Business Aircraft,Jet,14750,.89 Mach,.85 Mach,,45050,51000,,,,,6476,,2670,99750,52230,99/5,25/6,94/0,6000
+55C/ER,Bombardier Aerospace Business Aircraft,Jet,3700,455,,,7049,51000,,,,5150,,3100,,21500,12686,55/1,14/8,43/9,
+Global 5000,Bombardier Aerospace Business Aircraft,Jet,14750,.89 Mach,.85 Mach,,36000,51000,20600,,651,,5000,,2670,98000,50830,96/10,25/6,94/0,4800
+Challenger 850ER,Bombardier Aerospace Business Aircraft,Jet,8729,.80 Mach,.77 Mach,,18305,41000,19370,,680,,6305,,2910,53000,34167,87/10,20/5,69/7,3044
+55C/LR,Bombardier Aerospace Business Aircraft,Jet,3700,455,,,7707,51000,,,,5150,,3100,,21500,12816,55/1,14/8,43/9,
+55 (1984-'85),Bombardier Aerospace Business Aircraft,Jet,3700,455,417,,6707,51000,,4059,1000,5600,,3300,,21500,12135,55/1,14/8,43/9,1715
+CL-601-3A Challenger (3R=long-range),Bombardier Aerospace Business Aircraft,Jet,8650,,442,103,16665,41000,27000,4443,1314,5400,,3300,,43250,20485,68/5,20/8,64/4,
+CL-601 Challenger (GE engs),Bombardier Aerospace Business Aircraft,Jet,8650,480,442,,16665,41000,24000,4200,1048,5400,,3300,,43250,19950,68/5,20/8,61/10,3391
+55 (thru 1983),Bombardier Aerospace Business Aircraft,Jet,3700,457,,,6707,51000,,4380,1250,4540,,3109,,19500,12130,55/1,14/8,43/9,1715
+45XR,Bombardier Aerospace Business Aircraft,Jet,3500,0.81,0.79,,6062,51000,,,,,,,2660,21750,13743,57/6,14/13,47/78,2098
+CL-600 Challenger (AVCO engs),Bombardier Aerospace Business Aircraft,Jet,7500,480,442,,14890,41000,24000,3400,743,5700,,3300,,41400,18660,68/5,20/8,61/10,2991
+45,Bombardier Aerospace Business Aircraft,Jet,3500,0.81,0.79,,6062,51000,,,,,,,2660,20750,,57/6,14/13,47/78,2102
+CL-604 Challenger,Bombardier Aerospace Business Aircraft,Jet,8729,,459,,20000,41000,,,,,,,,47700,,68/5,20/8,64/4,
+40,Bombardier Aerospace Business Aircraft,Jet,3500,0.81,0.79,,5300,51000,,,,,,,2660,20600,,55/5,14/13,47/78,1803
+Challenger 605,Bombardier Aerospace Business Aircraft,Jet,8729,.82 Mach,.80 Mach,,20000,41000,20000,,680,,5684,,2777,48300,26985,68/5,20/8,64/4,4045
+Challenger 650,Bombardier Aerospace Business Aircraft,Jet,9220,.85 Mach,.80 Mach,,20000,41000,20000,1762,581,,5640,,2402,48200,27150,68/5,20/8,64/4,4000
+Challenger 300,Bombardier Aerospace Business Aircraft,Jet,6826,470,459,,14100,45000,,,,,4750,,2610,38650,23350,68/63,20/33,63/84,3100
+"36 A (prior'82 = gross weight @ 18,000)",Bombardier Aerospace Business Aircraft,Jet,3500,491,460,99,7400,45000,23500,4340,1280,4972,,3075,,18300,9838,48/8,12/3,39/6,2289
+Challenger 350,Bombardier Aerospace Business Aircraft,Jet,7323,.83 Mach,.80 Mach,,14150,45000,27800,2643,552,,4835,,2364,40600,24800,68/8,20,69,3200
+36,Bombardier Aerospace Business Aircraft,Jet,3500,477,441,105,7431,45000,24600,5100,1480,4080,,3105,,17000,8802,48/7,12/3,39/5,2289
+Learjet 75/70,Bombardier Aerospace Business Aircraft,Jet,3850,465,447,,6062,51000,27900,2467,430,,4000,,2660,21500,13890,58,14,50/11,2040
+35A,Bombardier Aerospace Business Aircraft,Jet,3500,471,460,99,6198,45000,25300,4760,1470,4972,,3075,,18300,9838,48/8,12/3,39/6,1818
+35,Bombardier Aerospace Business Aircraft,Jet,3500,477,441,105,6171,45000,24600,5100,1480,4080,,3105,,17000,8762,48/7,12/3,39/5,1818
+31 Std. (31A Vmo = 476 kts),Bombardier Aerospace Business Aircraft,Jet,3500,447,,,4110,51000,,,,2950,,2800,,15500,9857,48/8,12/3,43/9,
+29 Longhorn,Bombardier Aerospace Business Aircraft,Jet,2950,478,441,79,5373,47900,,6110,,2880,,2220,,15000,8157,47/7,12/3,43/9,1546
+28 Longhorn,Bombardier Aerospace Business Aircraft,Jet,2950,475,441,79,4704,48800,,6350,,2630,,2220,,15000,8195,47/7,12/3,43/9,1450
+25G,Bombardier Aerospace Business Aircraft,Jet,2950,,464,,6594,51000,25700,5720,1970,4893,,2728,,16300,8250,47/7,12/3,35/7,1450
+"25 D,F w/6 engs=45,000 service ceiling (prior '82 more rate of climb)",Bombardier Aerospace Business Aircraft,Jet,2950,464,459,97,6098,51000,23500,6830,1910,3937,,2817,,15000,7950,47/7,12/3,35/7,1431
+25 B (1973 thru 1975),Bombardier Aerospace Business Aircraft,Jet,2950,464,441,104,6098,45000,24500,6050,1750,5186,,3090,,15000,7355,47/6,12/3,35/7,1450
+25 C (1973 thru 1975),Bombardier Aerospace Business Aircraft,Jet,2950,464,441,104,7464,45000,24500,6050,1750,5186,,3090,,15000,7233,47/6,12/3,35/7,1525
+25 B & C (thru '72),Bombardier Aerospace Business Aircraft,Jet,2950,477,442,90,6098,45000,24500,6050,1740,5186,,2703,,15000,7206,47/6,12/6,35/6,1385
+"24 F (w/8A engs=51,000 service ceil)",Bombardier Aerospace Business Aircraft,Jet,2950,475,441,88,5628,45000,27000,7100,2505,3297,,2873,,13500,7130,43/3,12/3,35/6,1001
+"24 E (prior to '77=12,499 gross)",Bombardier Aerospace Business Aircraft,Jet,2950,477,441,88,4791,45000,28500,7220,2225,3000,,2789,,12900,7025,43/3,12/3,35/6,730
+24 D (1973 thru 1975),Bombardier Aerospace Business Aircraft,Jet,2950,464,441,99,5628,45000,26000,6800,1750,3917,,2800,,13500,6988,43/3,12/3,35/7,1001
+24 D (thru'72),Bombardier Aerospace Business Aircraft,Jet,2950,477,442,87,840,45000,26000,6800,2100,3917,,2703,,13500,6803,43/3,12/6,35/6,1001
+24 C,Bombardier Aerospace Business Aircraft,Jet,2950,461,442,88,715,45000,28500,6900,2000,3370,,2850,,12500,6519,43/3,12/6,35/6,1385
+24 B,Bombardier Aerospace Business Aircraft,Jet,2950,474,437,88,834,45000,26000,6300,1700,3100,2250,3307,1850,13500,6927,43/3,12/7,35/7,1001
+24 Twin Jet,Bombardier Aerospace Business Aircraft,Jet,2850,469,417,90,847,41000,26000,6300,1700,3100,2700,3350,1848,13000,7090,43/2,12/6,35/7,1100
+23 Twin Jet,Bombardier Aerospace Business Aircraft,Jet,2850,488,423,89,828,41000,26000,6900,1800,2940,1820,2800,1400,12500,6700,43/2,12/0,35/7,1000
+Citation Longitude,Cessna Aircraft Company,Jet,7665,.84 Mach,483,,14500,45000,28420,2550,1330,,4810,,2595,39500,23600,73/2,19/5,68/11,3500
+750 Citation X,Cessna Aircraft Company,Jet,6400,.92 Mach,511,,13000,51000,26000,3720,971,5710,,3820,,35700,21400,72/2,18/9,63/9,3250
+Citation X+,Cessna Aircraft Company,Jet,7034,528,470,,12931,51000,,3650,1120,,5250,,4702,36600,22131,73/7,19/3,69/2,3460
+Citation Sovereign+ 680,Cessna Aircraft Company,Jet,5907,.80 Mach,448,,11394,47000,29740,2846,735,,3530,,2160,30775,18231,63/5,20/3,72/3,3452
+680 Citation Sovereign,Cessna Aircraft Company,Jet,5770,.80 Mach,446,,11216,47000,27560,,,,3640,2650,,30300,17750,63/7,20/5,63/4,2664
+Citation Latitude,Cessna Aircraft Company,Jet,5907,.80 Mach,446,,11394,45000,27620,3800,652,,3580,,2480,30800,18656,62/3,20/11,72/4,2700
+650 Citation VII,Cessna Aircraft Company,Jet,4000,.85 Mach,476,97,7385,51000,23000,4442,1080,4690,,2910,,22450,13700,55/5,16/8,53/5,2300
+Citation XLS,Cessna Aircraft Company,Jet,3991,.75 Mach,354,,6740,45000,28600,2460,765,,3560,,2739,20200,12600,51/10,17/2,56/4,1724
+650 Citation VI,Cessna Aircraft Company,Jet,3650,473,,97,7385,51000,,1520,805,5150,,2900,,22000,12775,55/5,16/8,53/5,2345
+650 Citation III (SN 100 and up),Cessna Aircraft Company,Jet,3650,472,461,97,7384,51000,23500,3699,805,5030,,2900,,22000,11811,55/6,16/9,53/6,2600
+650 Citation III (thru SN 099),Cessna Aircraft Company,Jet,3650,472,,89,7384,51000,23500,3909,902,4710,,2560,,21000,11720,55/6,17/3,53/6,2600
+560-XL Citation Excel,Cessna Aircraft Company,Jet,3786,.76 Mach,429,82,6590,,32012,3090,1008,3460,,3315,,19200,11310,51/10,17/2,55/8,2027
+Citation Encore,Cessna Aircraft Company,Jet,3400,.755 Mach,427,83,5440,45000,,4500,,,3490,,,16830,9977,48/9,15/2,54/1,1970
+560 Citation V Ultra,Cessna Aircraft Company,Jet,3045,.76 Mach,430,82,5771,,26000,4230,1185,3180,,2800,,16300,9550,48/11,15/0,52/2,1960
+560 Citation V,Cessna Aircraft Company,Jet,2900,,425,85,5820,45000,,,,3160,,2920,,15900,8950,48/11,15/0,52/2,
+550 Citation Bravo,Cessna Aircraft Company,Jet,2887,.70 Mach,401,86,4860,,27750,3195,1133,3600,,3180,,14800,8925,47/2,15/0,52/2,1900
+S550 Citation SII,Cessna Aircraft Company,Jet,2500,,403,82,5820,43000,25000,3000,860,3240,,3050,,15000,8049,47/2,15/0,52/2,2104
+Citation II 550 (SN 627 & up),Cessna Aircraft Company,Jet,2500,,385,,5008,,25200,3050,930,3450,,2414,,14100,7706,47/2,15/0,52/2,
+Citation II 550 (thru SN 626),Cessna Aircraft Company,Jet,2500,,385,82,5008,43000,25200,3370,906,2990,,2270,,13300,7388,47/2,15/0,52/2,1930
+Citation II 551,Cessna Aircraft Company,Jet,2500,,385,82,5009,43000,27200,3625,1170,2650,,2210,,12500,7181,47/2,15/0,52/2,2104
+Citation CJ3 525B,Cessna Aircraft Company,Jet,2820,.737 Mach,351,,4710,45000,26250,2460,1090,,3180,2770,,13870,8300,50/2,15/2,53/4,1875
+Citation CJ2+ 525A,Cessna Aircraft Company,Jet,2490,.737 Mach,356,86,3930,45000,23800,4120,1004,,3360,,2980,12500,7725,47/8,14/0,49/0,1613
+Citation CJ2 525A,Cessna Aircraft Company,Jet,2400,.72 Mach,352,,3930,45000,21500,,,,3420,,2619,12375,7715,47/8,14/0,49/0,1550
+Citation CJ1+ 525,Cessna Aircraft Company,Jet,1965,.71 Mach,353,83,3220,41000,21200,3290,906,,3250,,2590,10700,6765,42/7,13/9,46/11,1300
+Citation CJ1 525,Cessna Aircraft Company,Jet,1900,.71 Mach,329,,3220,41000,21200,,,,3280,,2488,10600,6770,42/7,13/9,46/11,1248
+Citationjet 525,Cessna Aircraft Company,Jet,1900,.71 Mach,380,85,3220,41000,23000,3311,868,3080,,2750,,10400,6550,42/6,13/7,46/8,1485
+Citation Mustang 510,Cessna Aircraft Company,Jet,1350,340,,,,41000,,,,,3110,,2390,,,40/7,13/5,43/2,1150
+Citation I 500/501 (unit-0470 thru -0677 & on),Cessna Aircraft Company,Jet,2200,,357,82,3807,41000,21000,2719,826,2930,,2270,,11850,6631,43/6,14/4,47/1,1325
+Citation I 500,Cessna Aircraft Company,Jet,2200,,351,,3780,41000,21000,2680,800,2930,,2270,,11850,6684,43/6,14/4,47/1,1325
+"Citation 500 (SN 303 & up = 11,850 lb gross)",Cessna Aircraft Company,Jet,2200,,348,85,3780,41000,18300,2900,800,2660,,2300,,11500,6454,43/6,14/4,43/11,1308
+Citation 500 (SN 1-70),Cessna Aircraft Company,Jet,2200,,348,84,3618,35000,21000,2900,906,2550,,2310,,10850,6350,43/6,14/4,43/9,1064
+441 Conquest,Cessna Aircraft Company,Propjet,625,295,283,76,475,35000,21380,2435,715,2465,1785,1875,1095,9850,5682,39/0,13/2,49/4,2193
+425 Conquest I,Cessna Aircraft Company,Propjet,450,263,,84,366,33400,17200,1861,357,2490,2170,2150,955,8600,4948,35/10,12/7,44/1,1248
+425 Corsair,Cessna Aircraft Company,Propjet,450,263,250,79,366,34700,18500,2027,434,2341,2047,2145,952,8200,4915,35/10,12/7,44/1,1461
+421C Golden Eagle III ('79 stall=85 mph),Cessna Aircraft Company,Piston,375,257,241,74,213,30200,14900,1940,350,2323,1786,2293,720,7450,5048,36/5,12/11,41/1,1197
+421B Golden Eagle,Cessna Aircraft Company,Piston,375,245,235,74,175,31000,13000,1850,305,2387,1860,2178,720,7450,4426,36/1,11/6,41/9,845
+421 - A & B,Cessna Aircraft Company,Piston,375,240,227,76,175,26000,13340,1700,300,2516,2012,2110,1045,6840,4252,33/8,11/4,39/9,826
+421 pressurized/turbocharged,Cessna Aircraft Company,Piston,375,240,222,76,170,26000,13340,1700,300,2516,2012,2110,1045,6800,4237,33/5,11/4,39/9,826
+414A II Chancellor (pressurized-turbo) ('78 span=44/3),Cessna Aircraft Company,Piston,310,235,224,72,213,30800,19850,1520,290,2595,2185,2393,1013,6750,4543,36/4,11/5,44/1,1099
+414 pressurized-turbocharged,Cessna Aircraft Company,Piston,310,239,224,70,102,30100,11350,1580,240,2350,1695,1865,805,6350,4039,33/9,11/8,39/11,1090
+"411, A, turbocharged",Cessna Aircraft Company,Piston,340,231,214,72,175,26000,13000,1900,320,2010,1560,1851,1240,6500,3865,33/5,11/4,39/9,908
+404 Titan Ambassador II,Cessna Aircraft Company,Piston,375,232,217,70,348,26000,10100,1575,230,2367,1788,2130,1100,8400,4965,39/6,13/3,46/4,553
+402C Business Liner II,Cessna Aircraft Company,Piston,325,230,213,68,213,26900,14800,1450,301,2195,1763,2485,1055,6850,4238,36/4,11/5,44/1,875
+"402B, Business Liner",Cessna Aircraft Company,Piston,300,229,210,70,102,26180,11320,1610,225,2220,1695,1765,777,6300,4038,36/1,11/8,39/11,1180
+"402,-A turbocharged",Cessna Aircraft Company,Piston,300,227,209,69,102,26180,11320,1610,225,2220,1695,1765,777,6300,3719,35/8,11/7,39/9,833
+"401,-A & B turbocharged",Cessna Aircraft Company,Piston,300,227,209,69,102,26180,11700,1610,255,2220,1695,1765,777,6300,3674,33/8,11/7,39/9,1102
+"340 A, II pressurized/turbocharged",Cessna Aircraft Company,Piston,310,243,229,71,102,29800,15800,1650,315,2175,1615,1850,770,5990,4184,34/4,12/7,38/1,1106
+340 pressurized/turbocharged,Cessna Aircraft Company,Piston,285,226,210,71,102,26500,12100,1500,250,2430,1760,1840,765,5975,3730,34/4,12/6,38/1,1258
+335 II nonpressurized/turbocharged,Cessna Aircraft Company,Piston,300,230,215,71,102,26800,11500,1400,200,2365,1850,1850,770,5990,3963,34/4,12/7,38/1,928
+"320D-E-F Skyknight turbo (D=5,200 g/w)",Cessna Aircraft Company,Piston,285,239,226,64,102,29000,18800,1924,475,1515,1190,1734,614,5300,3273,29/6,10/4,36/9,735
+320 A-B-C Skyknight turbocharged,Cessna Aircraft Company,Piston,260,229,213,63,102,28100,16600,1820,450,1584,1050,1910,640,5200,3260,29/6,10/3,36/9,735
+320 Skyknight turbocharged,Cessna Aircraft Company,Piston,260,230,204,68,102,28100,16600,1820,400,1890,870,2056,640,4990,3190,29/5,10/3,36/9,740
+"T 310 R, II turbocharged",Cessna Aircraft Company,Piston,285,237,223,70,102,27400,17200,1700,390,1662,1306,1790,640,5500,3723,31/11,10/8,36/11,517
+T 310 Q turbocharged,Cessna Aircraft Company,Piston,285,238,225,67,102,28200,17550,1790,408,1662,1306,1790,640,5500,3292,29/6,10/4,36/9,807
+T 310 P turbocharged,Cessna Aircraft Company,Piston,285,239,226,66,102,28600,18100,1862,440,1590,1250,1790,640,5400,3292,29/3,10/4,36/9,807
+"310 R, II",Cessna Aircraft Company,Piston,285,207,194,70,102,19750,7400,1662,370,1700,1335,1790,640,5500,3603,31/11,10/8,36/11,661
+310 Q,Cessna Aircraft Company,Piston,260,205,192,63,102,19500,6680,1495,327,1795,1519,1697,582,5300,3214,29/6,10/4,36/9,680
+310 P,Cessna Aircraft Company,Piston,260,206,193,62,102,19900,6850,1540,330,1716,1451,1673,558,5200,3170,29/2,10/4,36/9,676
+"310K,L,N (fuel inj.)",Cessna Aircraft Company,Piston,260,206,193,65,102,19900,6850,1540,330,1716,1451,1582,1002,5200,3125,29/5,9/11,36/11,676
+"310 I, J (fuel inj.)",Cessna Aircraft Company,Piston,260,207,194,65,102,20300,7500,1590,360,1640,1385,1540,960,5100,3094,29/6,9/11,36/11,687
+310 H (fuel inj.),Cessna Aircraft Company,Piston,260,209,194,65,102,21100,7450,1690,380,1545,1920,1900,690,5100,3063,29/5,9/9,37/5,687
+"310 F,-G (fuel inj.)",Cessna Aircraft Company,Piston,260,210,191,73,102,21300,7450,1800,375,1395,1120,1720,1265,4990,3049,29/5,9/9,36/9,678
+"310,-A",Cessna Aircraft Company,Piston,240,191,178,71,102,19500,7250,1700,380,1375,1120,1710,1285,4600,2850,27/1,10/5,36/1,640
+T303 Crusader,Cessna Aircraft Company,Piston,250,216,180,62,155,25000,13000,1480,220,1750,1275,1450,820,5000,3305,30/5,13/4,38/10,835
+"T 337 G-P II,H-P, Skymaster pressurized",Cessna Aircraft Company,Piston,225,211,204,62,150,20000,18700,1170,375,1500,945,1675,795,4700,3184,29/10,9/2,38/2,939
+"T-337 H-II (prior'79 t/o perf=1,620 & 1,000)",Cessna Aircraft Company,Piston,210,207,200,62,90,20000,16500,1160,335,1675,1000,1650,700,4630,3038,29/10,9/2,38/2,1080
+T 337 E & F Skymaster turbocharged,Cessna Aircraft Company,Piston,210,200,194,61,93,29300,"Fwd 14,400",1105,F295,1675,1000,1650,700,4630,2850,29/10,9/4,38/2,920
+T 337 D Skymaster turbocharged,Cessna Aircraft Company,Piston,210,201,195,61,93,30100,"Fwd 16,200",1155,F325,1595,935,1650,700,4500,2815,29/10,9/4,38/0,920
+T 337 C Skymaster turbocharged,Cessna Aircraft Company,Piston,210,201,195,59,93,30100,"Fwd 18,600",1155,F325,1595,935,1520,600,4500,2795,29/10,9/4,38/0,920
+T 337 B Skymaster turbocharged,Cessna Aircraft Company,Piston,210,202,196,57,93,31000,"Fwd 20,000",1250,F390,1490,845,1500,590,4300,2785,29/1,9/4,38/0,920
+"337 G,H II Skymaster (prior '79 service ceiling=18,000)",Cessna Aircraft Company,Piston,210,172,169,61,90,16300,"Fwd 6,900",940,F300,1675,1000,1650,700,4630,2925,29/9,9/4,38/2,1139
+337 F Skymaster,Cessna Aircraft Company,Piston,210,173,165,61,93,18000,"F5,100",1100,F235,1675,1000,1650,700,4630,2695,29/9,9/4,38/2,920
+337 E Skymaster,Cessna Aircraft Company,Piston,210,173,166,60,93,19300,"F6,500",1180,F285,1565,910,1650,700,4440,2660,29/9,9/4,38/2,922
+337 D Skymaster,Cessna Aircraft Company,Piston,210,173,166,60,93,19500,"F6,800",1200,F300,1545,895,1650,700,4400,2655,29/9,9/4,38/0,920
+337 C Skymaster,Cessna Aircraft Company,Piston,210,173,166,58,93,19500,"F6,800",1200,F300,1545,895,1520,600,4400,2650,29/9,9/4,38/0,922
+337 B Skymaster,Cessna Aircraft Company,Piston,210,174,167,57,93,20000,"F7,500",1250,F335,1490,845,1500,590,4300,2615,29/9,9/4,38/0,922
+"337,-A, Skymaster",Cessna Aircraft Company,Piston,210,174,167,55,93,20500,"F8,200",1200,F360,1435,805,1465,757,4200,2615,29/9,9/4,38/0,922
+336 Skymaster fixed-gear,Cessna Aircraft Company,Piston,210,159,150,52,93,19000,"F8,200",1300,F370,1145,790,1395,575,3900,2320,29/7,9/4,38/0,880
+208B Caravan I Super Cargomaster,Cessna Aircraft Company,Propjet,600,,171,61,332,21900,,,770,2840,1575,1740,915,8750,4550,41/7,14/10,52/1,
+208 Caravan I (thru SN 0060=w/o high gross kit),Cessna Aircraft Company,Propjet,600,183,,60,332,27600,,1215,,1665,970,1550,645,7300,3800,37/7,14/2,51/8,
+208 Caravan-675,Cessna Aircraft Company,Propjet,675,182,154,61,335,25000,,1234,,2053,1160,1655,745,8000,3973,37/6,14/8,52/1,866
+208B Grand Caravan,Cessna Aircraft Company,Propjet,675,186,154,61,335,23700,,975,,2420,,1880,,8750,4765,41/7,15/6,52/1,810
+Cessna TTx,Cessna Aircraft Company,Piston,310,235,235,60,388,25000,,1400,,,1280,,2640,3600,2350,25/2,9,36,1270
+P210R pressurized,Cessna Aircraft Company,Piston,325,224,212,55,85,25000,,1150,,2110,1270,1600,825,4100,2471,28/4,9/8,38/10,715
+P210N II pressurized ('81=less performance),Cessna Aircraft Company,Piston,310,201,191,58,90,23000,,945,,2160,1300,1500,765,4000,2481,28/2,9/8,36/9,661
+T210R Turbo Centurion,Cessna Aircraft Company,Piston,325,224,207,55,87,29000,,1150,,2110,1270,1600,825,4100,2320,28/4,9/8,38/10,715
+T210N Turbo Centurion,Cessna Aircraft Company,Piston,310,204,192,58,90,27000,,930,,2160,1300,1500,765,4000,2303,28/2,9/8,36/9,715
+"T 210 M Turbo (prior '77 length=28/3, hgt=9/8)",Cessna Aircraft Company,Piston,310,204,197,57,90,28500,,1030,,1900,1150,1500,765,3800,2306,28/2,9/5,36/9,732
+"T 210 K,L Turbo (K=9 mph less speed)",Cessna Aircraft Company,Piston,285,205,187,57,90,28500,,930,,2030,1170,1500,765,3800,2180,28/3,9/8,36/9,732
+"T 210 G,H & J Turbo Centurion",Cessna Aircraft Company,Piston,285,203,194,55,89,30200,,1115,,1365,800,1355,625,3400,2050,28/3,9/7,36/9,739
+T 210 F Turbo Centurion,Cessna Aircraft Company,Piston,285,200,191,54,65,31300,,1280,,1265,675,1340,735,3300,1965,28/0,9/9,36/7,539
+210R Centurion,Cessna Aircraft Company,Piston,300,175,,53,87,16000,,1060,,2050,1215,1585,815,3850,2220,28/2,9/8,38/10,600
+"210 M,NII (prior'78=less svc. ceil. & r/o/c=860)",Cessna Aircraft Company,Piston,300,174,170,57,90,17300,,950,,2030,1250,1500,765,3800,2219,28/2,9/8,36/9,600
+"210 G, H & J, K, L Centurion",Cessna Aircraft Company,Piston,285,174,167,55,90,18300,,1000,,1365,800,1355,625,3400,1960,28/3,9/8,36/9,760
+210 F Centurion,Cessna Aircraft Company,Piston,285,172,165,54,65,19900,,1115,,1265,675,1340,735,3300,1865,28/0,9/9,36/7,640
+210 D & E Centurion,Cessna Aircraft Company,Piston,285,173,166,53,65,21000,,1210,,1110,590,1275,700,3100,1860,28/4,9/9,36/7,640
+"210 B,C Two Ten",Cessna Aircraft Company,Piston,260,170,160,52,65,20300,,1270,,1210,625,1110,725,3000,1780,27/3,9/7,36/6,680
+210 A,Cessna Aircraft Company,Piston,260,173,165,51,65,20700,,1300,,1135,620,1190,750,2900,1740,27/3,9/7,36/5,700
+T 207 (Stationair 7 & 8) '77=eng 310 hp,Cessna Aircraft Company,Piston,310,170,161,59,61,26000,,885,,1860,1030,1500,765,3800,2254,32/2,9/7,35/10,583
+207 Skywagn & Stnair 7&8 (prior'79 lgt=31/9),Cessna Aircraft Company,Piston,300,150,143,59,61,13300,,810,,1970,1100,1500,765,3800,2177,32/2,9/7,35/10,612
+TU 206G II Stationair 6 (float),Cessna Aircraft Company,Piston,310,155,135,52,92,25600,,835,,2790,1810,1750,845,3600,2404,29/8,14/2,35/10,640
+"TU206 C,-D,-E,-F (float) (prior '71 span=36/7)",Cessna Aircraft Company,Piston,285,157,143,50,65,24200,,950,,2400,1400,1610,710,3600,2295,28/6,13/11,35/10,626
+U206 G II Stationair 6 (float) '79-'82,Cessna Aircraft Company,Piston,300,137,131,51,92,13900,,925,,2820,1835,1675,780,3500,2342,29/8,14/2,35/10,680
+U206G (float) Stationair 6,Cessna Aircraft Company,Piston,300,136,130,53,61,13900,,855,,2475,1445,1570,695,3500,2312,29/8,14/1,35/10,580
+"U206E,F, float ('75-'76 specs) '76=+4 gal fuel",Cessna Aircraft Company,Piston,300,136,131,49,65,13900,,855,,2475,1445,1570,695,3500,2200,28/6,13/11,35/10,510
+"206C,D, float Skywagon",Cessna Aircraft Company,Piston,300,136,131,,65,13900,,855,,2475,1445,1570,695,3500,2060,28/6,13/11,36/10,510
+"TU 206E,F (ski) (prior'76=4 gal more fuel)",Cessna Aircraft Company,Piston,285,145,132,61,65,23500,,920,,,,,,3300,2165,28/8,9/8,35/10,626
+U206 F (ski) Stationair (1976 specs),Cessna Aircraft Company,Piston,300,121,118,52,61,11500,,800,,,,,,3300,2133,28/0,9/8,35/10,510
+"U206 E,F (ski) Super Skywagon",Cessna Aircraft Company,Piston,300,121,119,52,65,11500,,800,,,,,,3300,2065,28/8,9/8,35/10,510
+TU 206G (prior'79=12 gal less fuel+9/7 hgt),Cessna Aircraft Company,Piston,310,174,152,54,92,27000,,1010,,1640,835,1395,735,3600,2066,28/3,9/4,35/10,640
+"TU 206E,F Stationair",Cessna Aircraft Company,Piston,285,174,148,53,65,26300,,1030,,1810,910,1395,735,3600,1935,28/9,9/7,35/10,580
+"TU 206 A,B,C,D,(A&B length=27/8)",Cessna Aircraft Company,Piston,285,174,160,53,65,26300,,1030,,1810,910,1395,735,3600,1795,27/8,9/9,36/7,627
+"U206 F,G II ('75 up) '75 lgt=28/9 + prior'79 less fuel)",Cessna Aircraft Company,Piston,300,156,147,54,92,14800,,920,,1780,900,1395,735,3600,2002,28/3,9/4,35/10,680
+"U206B,C,D,E Skywagon (B=lgt 28/0) (E=35/10 span)",Cessna Aircraft Company,Piston,300,151,143,53,65,14800,,920,,1780,900,1395,735,3600,1725,28/8,9/7,36/7,510
+U 206 A,Cessna Aircraft Company,Piston,285,151,142,53,65,14800,,920,,1810,910,1340,735,3600,1795,27/9,9/9,36/7,555
+"206, U 206 Super Skywagon",Cessna Aircraft Company,Piston,285,154,144,52,65,16700,,1075,,1265,675,1340,735,3300,1760,27/9,9/9,36/7,563
+"TP 206A,B,C,D,E (E=35/10 span) (A=28/0 lgt)",Cessna Aircraft Company,Piston,285,174,160,53,65,26300,,1030,,1810,910,1395,735,3600,1915,28/3,9/8,36/7,609
+T206H Turbo Stationair,Cessna Aircraft Company,Piston,310,178,150,54,92,27000,,1050,,1740,910,1395,735,3600,2351,28/3,9/4,36/0,713
+206H Stationair,Cessna Aircraft Company,Piston,300,151,142,54,92,15700,,988,,1860,910,1395,735,3600,2351,28/3,9/4,36/0,713
+"P206A,B,C,D,E (E=35/10 span) (A=28/0 lgt)",Cessna Aircraft Company,Piston,285,151,142,53,65,14800,,920,,1810,910,1395,735,3600,1820,28/3,9/8,36/7,555
+P 206 Super Skylane,Cessna Aircraft Company,Piston,285,154,143,52,65,16700,,1075,,1265,675,1340,735,3300,1790,28/2,9/8,36/6,565
+205-A,Cessna Aircraft Company,Piston,260,145,138,50,65,16100,,965,,1465,685,1510,625,3300,1750,27/3,9/7,36/6,515
+195 B,Cessna Aircraft Company,Piston,275,152,143,54,80,16250,,1135,,1605,,1495,,3350,2050,27/3,7/2,36/2,583
+195 A,Cessna Aircraft Company,Piston,245,153,139,56,80,16000,,1050,,1670,,1495,,3350,2030,27/3,7/2,36/2,603
+195,Cessna Aircraft Company,Piston,300,157,148,55,80,16000,,1090,,1670,,1495,,3350,2050,27/3,7/2,36/2,600
+190,Cessna Aircraft Company,Piston,240,153,139,56,80,16000,,1090,,1670,,1495,,3350,2015,27/3,7/2,36/2,610
+T 188C Ag Husky (prior'81=4 mph less),Cessna Aircraft Company,Piston,310,113,106,58,54,14000,,510,,2060,1290,1265,420,4400,2322,26/6,8/2,41/8,283
+A188B Ag Truck ('79 & up) dispersal sys,Cessna Aircraft Company,Piston,300,106,101,57,54,7800,,465,,2250,1410,1265,420,4200,2230,25/11,8/2,41/8,290
+A188B Ag Wagon ('79 & up) dispersal sys,Cessna Aircraft Company,Piston,300,107,103,55,54,8700,,525,,1965,1250,1265,420,4000,2179,25/11,8/2,40/9,290
+A188 Ag Truck restricted ('72-'73=7/10 hgt),Cessna Aircraft Company,Piston,300,105,98,50,54,11100,,690,,1090,680,1265,420,4200,2220,26/3,8/0,41/8,290
+A188 Ag Wagon restricted (prior'77=7/10 hgt),Cessna Aircraft Company,Piston,300,105,98,50,37,11100,,690,,1090,680,1265,420,4000,2189,26/3,8/0,40/9,278
+188 Ag Pickup fixed-prop ('73-'75) restricted,Cessna Aircraft Company,Piston,230,91,78,50,37,6500,,400,,1920,1120,1265,420,3800,1900,25/3,7/10,40/9,204
+188 Ag Pickup fixed-prop ('72) restricted,Cessna Aircraft Company,Piston,230,94,83,50,37,7700,,460,,1740,1040,1265,420,3800,1835,25/3,7/9,40/9,204
+"A188,A,B, Ag Wagon ('66-'71) normal",Cessna Aircraft Company,Piston,300,131,123,50,37,15700,,940,,970,610,1265,420,3300,1845,26/3,7/4,40/4,278
+"188A,B Ag Wagon ('67-'71) fixed-prop normal",Cessna Aircraft Company,Piston,230,103,101,50,37,13000,,710,,1365,845,1265,420,3300,1815,25/3,7/4,40/4,204
+185 F Amph (water) prior '79 = 4-8 gal less fuel,Cessna Aircraft Company,Piston,300,136,130,50,88,16100,,950,,1710,1125,1480,775,3100,2253,27/6,12/8,35/10,500
+A185 F (float) (prior '79 = 4-8 gal less fuel),Cessna Aircraft Company,Piston,300,141,134,52,88,16400,,960,,2125,1430,1565,830,3320,1998,27/0,12/2,35/10,522
+A185 F (ski) (prior '79=less fuel) '77-78 lgt=27/11,Cessna Aircraft Company,Piston,300,136,131,49,88,15500,,860,,,,,,3350,1842,27/10,7/9,35/10,522
+A185 F II Skywagon (prior '81=less perform),Cessna Aircraft Company,Piston,300,155,145,49,88,17900,,1075,,1430,825,1400,610,3350,1750,25/8,7/9,35/10,645
+A 185 E Skywagon,Cessna Aircraft Company,Piston,300,155,147,51,65,17500,,1040,,1330,745,1400,480,3350,1565,25/6,7/9,36/2,470
+185 E Skywagon,Cessna Aircraft Company,Piston,300,153,145,54,65,16900,,950,,1290,725,1285,625,3300,1560,25/6,7/7,36/2,470
+"185 A,B,C,D Skywagon",Cessna Aircraft Company,Piston,260,153,145,54,65,17300,,1000,,1510,650,1265,610,3200,1520,25/5,7/6,36/0,561
+R182 II RG Turbo Skylane,Cessna Aircraft Company,Piston,235,187,173,50,92,20000,,1040,,1570,820,1320,600,3100,1846,28/8,8/11,35/10,845
+R182-RG II Skylane (optl EGT required on svc. ceil.),Cessna Aircraft Company,Piston,235,160,156,50,92,18000,,1140,,1570,820,1320,600,3100,1809,28/8,8/11,35/10,845
+T-182R II Turbo Skylane,Cessna Aircraft Company,Piston,235,168,157,49,92,20000,,965,,1475,790,1350,590,3100,1781,28/5,9/3,35/10,743
+T182T Turbo Skylane,Cessna Aircraft Company,Piston,235,176,159,49,92,20000,,1040,,1385,775,1350,590,3100,2075,29/0,9/4,36/0,971
+182T Skylane,Cessna Aircraft Company,Piston,230,150,145,49,92,18100,,924,,1514,795,1350,590,3100,1970,29/0,9/4,36/0,930
+182S ('97 & up),Cessna Aircraft Company,Piston,230,143,140,46,88,18100,,924,,1625,795,1280,540,3110,1882,28/0,9/3,16/0,813
+182R II (1981 & up),Cessna Aircraft Company,Piston,230,146,142,49,92,14900,,865,,1515,805,1350,590,3100,1775,28/0,9/3,35/10,817
+"182P,Q (prior '79 = 8-12 gal less fuel) thru'80",Cessna Aircraft Company,Piston,230,148,143,50,92,16500,,1010,,1350,705,1350,590,2950,1754,28/0,9/3,35/10,817
+182 N Skylane,Cessna Aircraft Company,Piston,230,146,139,50,65,17700,,890,,1350,705,1350,590,2950,1640,28/1,8/9,35/10,550
+"182 J,K,L,M Skylane (M lgt=28/1, hgt=8/9)",Cessna Aircraft Company,Piston,230,148,141,48,65,18900,,980,,1205,625,1350,590,2800,1620,28/5,8/1,36/2,550
+"182 E,F,G,H",Cessna Aircraft Company,Piston,230,148,141,48,65,18900,,980,,1205,625,1350,590,2800,1610,27/4,9/0,36/2,550
+"182 A,B,C,D (D=more fuel & bigger)",Cessna Aircraft Company,Piston,230,148,141,54,55,19800,,1030,,1080,620,1310,610,2650,1560,26/0,8/5,36/0,450
+182,Cessna Aircraft Company,Piston,230,143,135,54,55,20100,,1120,,1020,620,1290,610,2550,1540,26/0,8/5,36/0,443
+180K-'78 up (amphib & float=27/0 length & 12/2 height),Cessna Aircraft Company,Piston,230,137,123,48,88,15300,,970,,1900,1160,1720,735,2950,2204,27/6,12/8,35/10,804
+"180J,K amphib prior'76=4 gal more fuel (range w/80 gal fuel)",Cessna Aircraft Company,Piston,230,137,123,48,61,16000,,990,,2070,1280,1720,735,2950,2110,27/6,12/8,35/10,804
+"180J,K (float) prior '76 lgt=27/8 (range w/80)",Cessna Aircraft Company,Piston,230,137,123,48,61,16000,,990,,2070,1280,1720,735,2950,1955,27/0,12/2,35/10,804
+"180J,K (ski) (prior'79=15,600 serv. ceil, less fuel)",Cessna Aircraft Company,Piston,230,137,123,48,88,14700,,910,,,,,,2800,1790,28/10,7/9,35/10,804
+"180J,K (J=19,600 service ceiling)",Cessna Aircraft Company,Piston,230,148,141,48,88,17700,,1100,,1205,625,1365,480,2800,1701,25/8,7/9,35/10,804
+"180 G,-H",Cessna Aircraft Company,Piston,230,148,141,50,65,19600,,1090,,1205,625,1365,480,2800,1525,25/6,7/6,36/2,622
+"180 A,-B,-C,-D,-E,-F",Cessna Aircraft Company,Piston,230,148,139,54,55,21500,,1130,,1080,615,1330,460,2650,1555,26/0,7/5,36/0,513
+180,Cessna Aircraft Company,Piston,225,144,137,51,55,21200,,1110,,1095,610,1310,450,2550,1540,26/0,7/5,36/0,513
+177 RG Cardinal (1972-'78),Cessna Aircraft Company,Piston,200,157,149,50,61,17100,,925,,1585,890,1350,730,2800,1765,27/3,8/7,35/6,500
+177 RG Cardinal,Cessna Aircraft Company,Piston,200,153,144,50,51,16900,,860,,1585,890,1350,730,2800,1630,27/3,8/7,35/6,506
+177 B Cardinal (1975-'78 specs),Cessna Aircraft Company,Piston,180,139,130,46,50,14600,,840,,1400,750,1220,600,2500,1643,27/3,8/7,35/6,490
+177 B (thru'74)'70-'71 lgt=27/0 & hgt=9/1,Cessna Aircraft Company,Piston,180,133,123,46,50,14600,,840,,1400,750,1220,600,2500,1485,27/3,8/7,35/6,417
+177 A Cardinal,Cessna Aircraft Company,Piston,180,130,120,49,49,15800,,760,,1575,845,1220,435,2500,1440,27/0,9/1,35/7,410
+177 Cardinal,Cessna Aircraft Company,Piston,150,125,117,46,49,12700,,670,,1575,845,1135,400,2350,1415,27/0,9/1,35/7,591
+175 C,Cessna Aircraft Company,Piston,175,123,118,56,52,14500,,790,,1450,835,1170,690,2450,1325,25/0,8/5,36/0,589
+"175,-A,-B",Cessna Aircraft Company,Piston,175,128,121,54,52,15900,,850,,1340,735,1155,590,2350,1312,25/0,8/5,36/0,593
+172 RG II Cutlass,Cessna Aircraft Company,Piston,180,144,140,50,66,16800,,800,,1775,1060,1340,625,2650,1627,27/5,8/10,35/10,720
+172 Q Cutlass,Cessna Aircraft Company,Piston,180,123,122,48,54,17000,,680,,1690,960,1335,575,2550,1480,26/11,8/10,36/1,475
+R172K/Hawk XP ('77 t/o ground run=850),Cessna Aircraft Company,Piston,195,132,130,47,52,17000,,870,,1360,800,1345,635,2550,1572,27/2,8/10,35/10,570
+172S Skyhawk SP,Cessna Aircraft Company,Piston,180,126,124,48,56,14000,,730,,1630,960,1335,575,2550,1663,27/2,8/11,36/1,638
+172 Skyhawk ('97 & up),Cessna Aircraft Company,piston,160,123,122,47,53,13500,,720,,1685,945,1295,550,2457,1600,26/11,8/11,36/1,580
+172 P II Skyhawk,Cessna Aircraft Company,Piston,160,123,120,46,43,13000,,700,,1625,890,1280,540,2400,1454,26/11,8/10,35/10,440
+172N/Hawk 100 thru '80('77 t/o gr. run=820),Cessna Aircraft Company,Piston,160,124,122,44,43,14200,,770,,1390,775,1250,520,2300,1430,26/11,8/10,35/10,440
+172 M Skyhawk ('76=4 mph more speed),Cessna Aircraft Company,Piston,150,122,115,44,42,13100,,645,,1525,865,1250,520,2300,1335,26/11,8/10,35/10,435
+172 K & L Skyhawk,Cessna Aircraft Company,Piston,150,122,115,43,42,13100,,645,,1525,865,1250,520,2300,1315,26/11,8/9,35/9,417
+R172K/Hawk XP (floats),Cessna Aircraft Company,Piston,195,117,116,44,52,15500,,870,,1850,1135,1390,675,2550,1834,26/10,12/5,35/10,539
+172N-P/Hawk 100 (float plane 1978 & up),Cessna Aircraft Company,Piston,160,96,95,44,43,15000,,740,,2160,1400,1345,590,2220,1632,26/8,11/11,35/10,440
+172 M (float plane 1974-76),Cessna Aircraft Company,Piston,150,98,97,44,42,12000,,715,,2390,1620,1345,590,2220,1574,27/0,9/11,35/10,435
+172 M (float plane 1973),Cessna Aircraft Company,Piston,150,94,92,45,42,12000,,580,,2390,1620,1345,590,2220,1450,27/0,9/11,35/9,435
+172 K & L float plane,Cessna Aircraft Company,Piston,150,94,92,45,42,12000,,580,,2390,1620,1345,590,2220,1405,26/7,10/0,35/9,418
+172 I Skyhawk,Cessna Aircraft Company,Piston,150,122,115,43,42,13100,,645,,1525,865,1250,520,2300,1300,26/11,8/11,36/2,515
+"172,-D,-E,-F,-G,-H",Cessna Aircraft Company,Piston,145,121,114,43,42,13100,,645,,1525,865,1250,520,2300,1330,26/6,8/11,36/2,515
+172 C,Cessna Aircraft Company,Piston,145,121,114,43,42,14200,,675,,1450,900,1200,600,2250,1330,26/5,8/6,36/0,515
+172 B,Cessna Aircraft Company,Piston,145,122,114,51,42,15100,,730,,1370,875,1115,600,2200,1325,26/5,8/6,36/0,515
+"172,-A",Cessna Aircraft Company,Piston,145,117,108,50,37,13300,,660,,1650,950,1115,600,2200,1260,25/0,8/5,36/0,420
+"170,-A,-B",Cessna Aircraft Company,Piston,145,122,104,50,42,15500,,690,,1820,,1145,,2200,1205,25/0,6/5,36/0,410
+"152,A152 (w/conical wing tips)A=2 mph less",Cessna Aircraft Company,Piston,110,110,107,43,26,14700,,715,,1340,725,1200,475,1670,1141,24/1,8/6,33/2,315
+"150M, A150M (Aerobat span=32/9)",Cessna Aircraft Company,Piston,100,109,106,42,26,14000,,670,,1385,735,1075,445,1600,1104,23/11,8/6,33/2,303
+150 L ('71 height=8/8),Cessna Aircraft Company,Piston,100,106,102,42,26,12650,,670,,1385,735,1075,445,1600,1060,23/9,8/0,33/2,303
+A 150 L Aerobat (1974),Cessna Aircraft Company,Piston,100,108,103,42,26,14000,,670,,1385,735,1075,445,1600,1040,23/9,8/0,32/9,303
+"A 150 K,L Aerobat (1971-73)'71 height=8/8",Cessna Aircraft Company,Piston,100,104,100,42,26,12650,,670,,1385,735,1075,445,1600,1020,23/9,8/0,32/9,303
+"150 H,J,K (K=8/8 height)",Cessna Aircraft Company,Piston,100,106,102,42,26,12650,,670,,1385,735,1075,445,1600,1065,23/9,8/0,32/9,303
+150 J float plane,Cessna Aircraft Company,Piston,100,90,85,43,26,10700,,560,,2075,1310,850,415,1650,1120,24/1,9/1,32/9,276
+"150 D,-E,-F,-G",Cessna Aircraft Company,Piston,100,109,102,43,26,12650,,670,,1375,735,1075,445,1600,970,23/9,8/5,32/8,303
+"150 A,-B,-C",Cessna Aircraft Company,Piston,100,108,105,43,26,15300,,740,,1205,680,1055,360,1500,965,21/1,6/1,33/4,320
+150,Cessna Aircraft Company,Piston,100,108,104,47,26,15300,,740,,1205,680,1055,360,1500,962,21/0,6/1,33/4,318
+140 A,Cessna Aircraft Company,Piston,90,103,90,46,21,15600,,640,,1850,650,1530,460,1500,850,20/9,6/3,33/3,315
+140,Cessna Aircraft Company,Piston,85,102,88,46,21,15100,,620,,1950,750,1530,460,1500,850,20/9,6/3,33/3,315
+120,Cessna Aircraft Company,Piston,85,104,100,43,25,15500,,640,,1850,650,1530,460,1450,818,20/9,6/3,32/8,390
+Vision Jet SF50,Cirrus Design Corporation,Jet,1846,311,305,67,2000,31000,,1609,,3192,2036,,1628,6000,3550,30/7,10/9,38/7,1275
+SR20,Cirrus Design Corporation,Piston,200,,160 kts,54,56,,,,,1958,1341,2044,1014,3000,2050,26/3,9/3,35/7,800
+SR22,Cirrus Design Corporation,Piston,310,,180 kts,59,81,,,,,1575,1020,2325,1140,3400,2250,26,9/2,38/5,"1,000+"
+Columbia 400 LC-41,Columbia Aircraft Mfg,Piston,310,235,181,57,106,25000,,,,1250,700,2350,1150,3600,2500,25/2,9,35/8,1300
+Columbia 350 LC-42,Columbia Aircraft Mfg,Piston,310,235,179,57,106,18000,,,,1250,700,2350,1150,3400,2.300,25/2,9,35/8,1300
+Columbia 300 LC-40,Columbia Aircraft Mfg,Piston,310,235,190,57,106,18000,,,,1250,700,2350,1550,3400,2250,25/2,9,36,1300
+115TC,Commander Premier Aircraft,Piston,270,197,187,59,90,25000,,1050,,2223,1408,1312,734,3305,2152,24/11,8/7,32/10,870
+115,Commander Premier Aircraft,Piston,265,164,149,54,90,16800,,1070,,1985,1145,1200,720,3250,2102,24/11,8/7,32/10,1005
+114TC,Commander Premier Aircraft,Piston,270,197,177,59,90,25000,,1050,,2223,1408,1312,734,3305,2151,24/11,8/5,32/9,870
+"114A, Gran Turismo",Commander Premier Aircraft,Piston,260,166,157,54,68,16500,,1030,,2150,,1200,,3260,2070,25/1,8/5,32/9,665
+"114,('76-24/10 length + less performance)",Commander Premier Aircraft,Piston,260,166,157,55,68,17400,,1088,,1990,,1200,,3140,1905,25/1,8/5,32/9,665
+"112TC,-A,Alpine",Commander Premier Aircraft,Piston,210,170,163,54,48,20000,,914,,1750,,1275,,2950,2035,25/1,8/5,35/7,620
+112B,Commander Premier Aircraft,Piston,200,150,142,51,48,15050,,950,,1829,,1039,,2800,1773,25/1,8/5,35/7,575
+112A,Commander Premier Aircraft,Piston,200,149,140,54,48,13900,,1020,,1585,,1310,,2650,1691,24/10,8/5,32/9,569
+112,Commander Premier Aircraft,Piston,200,152,143,53,60,17000,,1000,,1460,880,1310,680,2550,1530,24/11,8/5,32/9,750
+Top Cub,"Cubcrafters, Inc.",Piston,180,132,110,42,54,18000,,800,,,580,,580,2300,1200,23/6,8/5,35/2,555
+Sport Cub,"Cubcrafters, Inc.",Piston,100,122,103,27,25,18000,,790,,975,415,1040,245,1320,825,23/3,8/4,34/2,434
+Falcon 8X,Dassault Falcon Jet,Jet,6722,.90 Mach,459,,34900,51000,,2055,,,5880,,2150,73000,41000,80/3,26/1,86/3,6450
+Falcon 7X,Dassault Falcon Jet,Jet,6402,.90 Mach,370,,31940,51000,,1947,597,,5710,,2070,70000,41000,76/7,25/7,86,5950
+Lineage 1000,Dassault Falcon Jet,Jet,18500,.82 Mach,472,,48217,41000,,2464,720,,6076,,2450,120152,70841,118/11,33/9,94/3,4600
+Falcon 900EX,Dassault Falcon Jet,Jet,5000,,,,,,,4000,,5035,,2385,,48500,23875,66/4,24/9,63/15,4500
+Falcon 900 B (3-eng fan jet),Dassault Falcon Jet,Jet,4750,513,459,81,19165,41000,31000,4000,2000,4950,,3500,,45500,22573,66/4,24/9,63/5,4400
+Falcon 900 (3-eng fan jet),Dassault Falcon Jet,Jet,4500,513,459,81,19165,39000,21200,3500,1785,5300,,3500,,45500,22573,66/4,24/9,63/5,4200
+Falcon Fan Jet 50 (3-eng fan jet),Dassault Falcon Jet,Jet,3700,518,430,77,15520,41000,31000,3430,2200,4700,,2800,,38800,21100,60/9,22/11,61/10,3500
+Falcon Fan Jet 2000,Dassault Falcon Jet,Jet,5918,,480,,12155,47000,,,,5475,,2565,,35200,19890,66/4,23/2,63/5,3000
+2000EX,Dassault Falcon Jet,Jet,7000,.86 Mach,.80 Mach,,16600,42000,,,643,,5875,,2615,42400,23190,66/4,23/2,63/5,3800
+Falcon 200,Dassault Falcon Jet,Jet,5200,521,435,89,10684,39000,17400,3065,830,5260,,2860,,32000,18800,56/3,17/6,53/6,2500
+Falcon Fan Jet C 20,Dassault Falcon Jet,Jet,4125,530,457,90,8420,42000,20000,3500,800,3800,,2940,,26455,16600,56/3,17/4,53/6,1200
+Falcon Fan Jet D 20,Dassault Falcon Jet,Jet,4250,512,457,90,8980,42000,22000,3500,800,6400,,4850,,27337,15400,56/3,17/5,53/6,1630
+Falcon Fan Jet F 20 (thru 1975),Dassault Falcon Jet,Jet,4315,530,458,84.5,9250,42000,17000,3300,900,5000,,3300,,28660,15970,56/3,17/5,53/6,1610
+Falcon F 20,Dassault Falcon Jet,Jet,4500,530,410,88,9098,37000,18200,3330,715,4950,,2450,,28660,17500,56/3,17/6,53/6,1614
+Falcon 100,Dassault Falcon Jet,Jet,3230,513,459,84,5912,39000,17000,4600,1535,4615,,2750,,19300,11200,45/6,15/2,42/11,1828
+Falcon Fan Jet 10,Dassault Falcon Jet,Jet,3230,513,459,88,5912,45000,26000,4600,1535,4615,,2750,,18740,10800,45/6,15/2,42/11,1828
+Falcon Fan Jet 10 ('76-'77),Dassault Falcon Jet,Jet,3230,459,426,92,5910,45000,23000,4200,1050,4300,,3300,,18300,10800,45/4,14/6,42/11,1800
+DHC 6-300 Twin Otter Std. + '77-'78=less perf.,De Havilland (See also Bombardier),Propjet,620,182,170,58,2583,26700,11600,1600,340,1500,860,1940,950,12500,6881,51/9,19/6,65/0,300
+DHC 6-300 Twin Otter (thru 1976),De Havilland (See also Bombardier),Propjet,620,182,171,64,2457,26700,11600,1600,340,1940,860,1940,950,12500,7487,51/9,18/7,65/0,300
+DHC 6-200 Twin Otter,De Havilland (See also Bombardier),Propjet,579,165,150,57,2457,24300,8500,1300,275,1900,579,1995,1125,11579,7250,51/9,18/7,65/0,
+DA62,Diamond Aircraft,Piston,180,192,185,,576,20000,13000,1029,,,2897,,2556,5071,3505,30/2,9/3,47/9,1283
+Twin Star Diamond DA42,Diamond Aircraft,Piston,135,194,172,56,52,18000,10000,1280,160,1730,1130,1877,1069,3935,2765,28/1,8/2,44/6,1129
+Katana DA20-A1,Diamond Aircraft,Piston,81,161,117,37,20,,,680,,1560,1120,1490,748,1609,1095,23/6,6/11,35/7,526
+Katana DA20-C1,Diamond Aircraft,Piston,125,163,132,34,25,,,1105,,1263,952,1235,550,1654,1166,23/6,7/2,35/8,422
+Eclipse DA20-C1,Diamond Aircraft,Piston,125,,140kts,44kcas,24,,,,,1470,1106,1280,581,1720,1166,23/6,7/2,35/8,
+Star DA40-180,Diamond Aircraft,Piston,180,,145kts,49kts,41,,,,,1150,,,,2535,,26/3,6/6,39/4,600nm
+TBM 940 (2019 & Up),EADS Socata Aircraft,Propjet,850,330,252,,6032,31000,,1653,,,2380,,2430,7394,4629,35/2,14/3,42/1,1730
+TBM 900/910/930 (2014 & Up),EADS Socata Aircraft,Propjet,850,330,252,,291,31000,,1653,,,2380,,2430,7394,4629,35/2,14/3,42/1,1730
+TBM 850,EADS Socata Aircraft,Propjet,850,320,255,,1887,31000,,1380,,2840,,2430,,7394,4698,34/11,14/4,41/7,1520
+TBM 700C2,EADS Socata Aircraft,Propjet,700,345,333,,1887,31000,,1500,,,2832,,2427,7394,4651,34/11,14/4,41/7,1360
+TBM 700,EADS Socata Aircraft,Propjet,700,300,291,61,1887,30000,,2380,,1591,1017,2034,1181,6579,4050,34/11,14/4,41/7,1563
+TB-21 TC Trinidad,EADS Socata Aircraft,Piston,250,200,187,54,86,25000,,1125,,1953,1193,1750,755,3083,1795,25/4,9/4,32/6,
+TB-20 Trinidad,EADS Socata Aircraft,Piston,250,167,160,54,86,20000,,1260,,1953,1193,1750,755,3083,1744,25/4,9/4,32/6,1100
+TB-200XL,EADS Socata Aircraft,Piston,200,,115,,55,16000,,937,,1561,,1474,,2535,1642,25/5,9/11,32/10,637
+TB-10 Tobago,EADS Socata Aircraft,Piston,180,132,117,51,54,13000,,790,,1657,1066,1394,623,2535,1477,25/0,10/6,32/0,
+TB-9 Tampico Club,EADS Socata Aircraft,Piston,160,,106,50,42,11000,,738,,1706,,1378,,2337,1411,25/3,9/11,32/0,
+DW-1 (ag plane),Eagle,Piston,300,100,57,48,40,,,,,2257,1421,,,5400,2650,27/6,10/11,55/0,
+Eclipse 500,Eclipse Aviation,Jet,900,.64 Mach,426,69,1686,41000,25000,3314,910,2297,,2155,,5920,3550,33/6,11/0,37/11,1300
+Lineage 1000,Embraer Aircraft - Empresa Brasileira,Jet,18500,.82 Mach,452,,48217,41000,,2464,720,,6076,,3402,120152,70841,118/11,33/9,94/3,4592
+Legacy EMB-135BJ,Embraer Aircraft - Empresa Brasileira,Jet,7987,.80 Mach,,,18170,41000,23548,,619,,5453,,2306,49604,29994,86/5,22/2,68/11,3361
+Praetor 600,Embraer Aircraft - Empresa Brasileira,Jet,7528,.83 Mach,466,,15986,45000,,2846,777,,4436,,2165,42858,24339,68/1,21,70/6,4102
+Praetor 500,Embraer Aircraft - Empresa Brasileira,Jet,6540,466,,,13051,45000,27513,2643,743,,42222,,2086,37567,23038,64/7,21/1,70/6,3340
+Legacy 500,Embraer Aircraft - Empresa Brasileira,Jet,7036,.83 Mach,466,,13058,45000,28189,2643,841,,4084,,2122,38360,23700,68/1,21/2,66/5,3125
+Legacy 450,Embraer Aircraft - Empresa Brasileira,Jet,6540,.83 Mach,462,,12108,45000,27513,2643,831,,3907,,2090,35759,22983,64/7,21/1,66/5,2904
+Phenom 300,Embraer Aircraft - Empresa Brasileira,Jet,3200,.78 Mach,450,,,45000,,,,,3700,,,,,,,,1800
+Phenom 100,Embraer Aircraft - Empresa Brasileira,Jet,1615,.70 Mach,380,,,41000,,,,,3400,,,,,,,,1320
+EMB-110P1A Bandeirante (specs=110P1/41),Embraer Aircraft - Empresa Brasileira,Propjet,750,221,181,71,440,21500,9500,1650,340,4000,,4400,,13007,8007,49/6,16/6,50/3,
+Eurofox,"Eurofox, Rollison LSA Inc",Piston,100,164,120,46,23,14000,,1000,,,260,,,1235,644,18/7,7/5,29/11,600
+Excalibur '800' conv. Beech Twin Bonanza,Excalibur Aviation,Piston,400,226,213,71,230,22200,11800,1870,440,1525,1220,1940,1360,7600,5100,31/5,11/3,46/0,
+Excalibur conv. Beech Twin Bonanza,Excalibur Aviation,Piston,380,239,226,71,230,30000,17500,1900,340,1225,980,1840,1288,7300,4500,31/5,11/3,46/0,
+"Queen Air '800' conv. Beech 65,A65,70,80",Excalibur Aviation,Piston,400,213,201,68,230,22200,11800,1535,360,1706,1365,2176,1525,8000,5400,N/C,N/C,N/C,
+"Queen Air '8800' conv. Beech A80,B80",Excalibur Aviation,Piston,400,213,201,70,264,20000,10200,1490,250,2050,1365,2450,1525,8800,5800,N/C,N/C,N/C,
+"Metro III,A",Fairchild M7 Aerospace,Propjet,1000,280,248,88,648,29900,14200,2635,690,3495,,,,14500,8737,59/4,16/8,57/0,1827
+"Metro, II (prior '79 height=16/10)",Fairchild M7 Aerospace,Propjet,940wet,,256,86,648,27000,14700,2400,650,2050,1900,1970,1460,12500,8000,59/4,16/8,46/3,1250
+Merlin IV C (SN AT-423 & up),Fairchild M7 Aerospace,Propjet,1000,278,248,88,648,29900,14200,2635,690,3340,,2970,,14500,9200,59/4,16/8,57/0,2040
+Merlin IV C,Fairchild M7 Aerospace,Propjet,1000 dry,283,261,87,648,30000,14550,2440,627,2850,,2532,,14000,9100,59/4,16/8,57/0,2040
+"Merlin IV, A",Fairchild M7 Aerospace,Propjet,840,270,,86,544,27000,14700,2400,650,2050,1600,1970,1460,12500,8200,59/4,16/8,46/3,1815
+Fairchild 300,Fairchild M7 Aerospace,Propjet,900,303,264,92,648,29400,15800,2650,750,3080,,2805,,13230,8200,42/2,16/9,47/11,2178
+"Merlin III C, III C-41 (13,230 gross)",Fairchild M7 Aerospace,Propjet,900,300,265,92,648,27000,14000,2650,680,2920,,3530,,13230,8150,42/2,16/10,46/3,2025
+"Merlin III C-23 (12,500 gross) (SN TT426 & up)",Fairchild M7 Aerospace,Propjet,900,303,264,89,648,29400,16500,2800,780,2400,,3360,,12500,8090,42/2,16/10,46/3,2025
+Merlin III B,Fairchild M7 Aerospace,Propjet,900,309,295,89,648,31400,16500,2780,723,2970,,3240,,12500,7800,42/2,16/10,46/3,2025
+Merlin III A,Fairchild M7 Aerospace,Propjet,840,283,,83,648,28900,15000,2530,620,2150,1900,1570,1140,12500,7600,42/2,16/10,46/3,2670
+Merlin II B,Fairchild M7 Aerospace,Propjet,665,,257,76,386,29900,12500,2780,700,2970,,3240,,10000,6150,40/1,14/4,45/10,1318
+Merlin II A,Fairchild M7 Aerospace,Propjet,550,,235,75,386,31000,12600,1950,520,2300,,2380,,9800,6075,40/1,14/4,45/10,1250
+CTSW,Flight Design USA,Piston,100,120,112,39,34,14000,,960,,,300,,450,1320,649,20/4,7/11,28,1080
+800XP,Gobosh Aviation,Piston,100,145,119,35,29,13200,,850,,1050,520,1100,550,1320,760,20/4,6/11,31/6,730
+700S,Gobosh Aviation,Piston,100,133,116,36,18,13200,,850,,1450,380,1410,656,1320,820,20/6,7/4,20/6,400
+G650ER,Gulfstream Aerospace,Jet,16900,.925 Mach,.85 Mach,,48200,51000,,1762,,,6299,,2680,103600,54000,99/9,25/8,99/7,7500
+G500,Gulfstream Aerospace,Jet,15144,.925 Mach,.85 Mach,,30250,51000,,2467,,,5300,,2620,79600,46850,91/2,25/6,86/4,5300
+G V,Gulfstream Aerospace,Jet,14750,516,459,,41000,51000,,,,5870,,2950,,89400,46800,96/5,25/4,93/6,6500
+G550,Gulfstream Aerospace,Jet,15385,.885 Mach,.85 Mach,,40994,51000,25820,,594,,5910,,2770,91000,47900,96/5,25/10,93/6,6750
+G500,Gulfstream Aerospace,Jet,15385,.885 Mach,.85 Mach,,34939,51000,27700,,707,,5150,,2770,85100,47600,96/5,25/10,93/6,58000
+G IVSP,Gulfstream Aerospace,Jet,13850,505,459,115,29500,45000,27000,4122,1054,5450,,3190,,75000,42500,88/4,24/5,77/10,4220
+G IV,Gulfstream Aerospace,Jet,13850,510,459,108,29500,45000,27000,4219,1063,5265,,3393,,73200,42500,88/4,24/5,77/10,4420
+G400,Gulfstream Aerospace,Jet,13850,.88 Mach,.80 Mach,,29280,45000,23440,,701,,5450,,3190,75000,43900,88/4,24/5,77/10,3976
+G300,Gulfstream Aerospace,Jet,13850,.88 Mach,.80 Mach,,26700,45000,24300,,767,,5100,,2650,71300,43000,88/4,24/5,77/10,3526
+G450,Gulfstream Aerospace,Jet,13850,.88 Mach,.80 Mach,,29280,45000,,,410,,5450,,3260,73900,42600,89/4,25/2,77/10,4350
+G350,Gulfstream Aerospace,Jet,13850,.88 Mach,.80 Mach,,26000,45000,26000,,790,,5050,,3260,70900,42300,89/4,25/2,77/10,3800
+GIII (G1159A),Gulfstream Aerospace,Jet,11400,503,459,104,28300,45000,23400,4049,1403,5115,,3250,,69700,38000,83/1,24/4,77/10,3767
+G200,Gulfstream Aerospace,Jet,6040,.85 Mach,.80 mach,,15000,45000,23720,395,,,6083,,3280,35450,19800,62/3,21/5,58/1,3400
+GII-B (G1159-B),Gulfstream Aerospace,Jet,11400,503,459,103,28300,45000,23400,4049,1403,5115,,3250,,69700,38150,79/11,24/6,77/10,3680
+GII (G1159) with tip tanks,Gulfstream Aerospace,Jet,11400,503,459,103,26800,45000,23000,4240,1461,5750,,3168,3500,65500,37186,79/11,24/6,72/6,2795
+GII (G1159),Gulfstream Aerospace,Jet,11400,503,459,108,23300,45000,25400,4345,1520,5625,,3198,,64800,36544,79/11,24/6,68/11,2592
+G150,Gulfstream Aerospace,Jet,4420,.85 Mach,.80 Mach,,10300,45000,,,606,,5000,,2880,26100,14950,56/9,19/1,55/7,2954
+G100,Gulfstream Aerospace,Jet,4250,.88 Mach,.80 Mach,,9365,45000,27000,,493,,5395,,2920,24650,13950,54/10,18/4,54/7,2950
+GI (G-159) ceiling quoted w/APU,Gulfstream Aerospace,Propjet,1950,340,299,87,10463,30000,16000,1900,540,,4850,,2770,36000,23008,63/9,23/4,78/4,2164
+Hawker Horizon 4000,Hawker Beechcraft,Jet,6900,.84 Mach,422,,14600,42900,28000,,576,,4509,,2916,37500,21775,69/2,19/7,61/9,3400
+Hawker 1000,Hawker Beechcraft,Jet,5225,,452,,11440,43000,21000,3577,797,6000,,,,31000,,53/9,17/1,51/4,
+Hawker 800,Hawker Beechcraft,Jet,4300,463,432,,10000,41000,,3500,780,4900,,3650,,27400,15120,51/2,17/7,51/4,
+Hawker 850 XP Pro Line,Hawker Beechcraft,Jet,4660,.80 mach,402,,10000,39000,18800,,470,,5032,,2650,28000,15670,51/2,18/1,54/4,2522
+Hawker 900XP,Hawker Beechcraft,Jet,4660,452,430,,10000,41000,,3415,570,,4965,,3805,28000,16500,51/2,18/1,54/4,2929
+Hawker 750,Hawker Beechcraft,Jet,5525,447,430,,8950,41000,,3500,530,,4695,,3803,27000,16250,51/2,18/1,51/3,1978
+Hawker 400XP,Hawker Beechcraft,Jet,2965,.78 Mach,414,,4912,43450,20600,,305,,3906,,3514,16300,10500,48/5,13/11,43/6,1565
+"HS125-700,A (Hawk-Sidd mfg) ('77=24,200 gross)",Hawker Beechcraft,Jet,3700,443,400,87,9450,41000,21600,3000,1350,5800,,3600,,24800,14150,50/9,17/7,47/0,
+BH-125-600 (Beech mfg),Hawker Beechcraft,Jet,3750,456,435,83,9450,41000,25000,4500,1400,4850,3710,2125,1165,25000,12865,50/6,17/3,47/0,
+BH-124-400A (Beech mfg),Hawker Beechcraft,Jet,3360,443,385,77,9100,41000,25000,3100,1300,5000,3440,1990,1140,23300,11920,47/5,16/6,47/0,
+DH-125-3A-RA,Hawker Beechcraft,Jet,3360,443,385,79,9100,41000,26000,4150,1850,3800,1990,2450,970,22700,12000,47/5,16/6,47/0,
+HondaJet,Honda Aircraft Company,Jet,2050,422,420,,2845,43000,26400,3990,672,,3934,,3047,10700,7348,42/6,14/9,39/8,1223
+Astra SPX,IAI,Jet,4250,430,,,9365,45000,,,,,,,,24650,,55/7,18/4,54/7,2700
+Astra SP,IAI,Jet,3700,,430,,9381,45000,23600,,,,,,,23500,,55/7,18/2,52/8,3104
+1125 Westwind/Astra,IAI,Jet,3700,,397,,9381,45000,,,,5400,,2450,,23500,,55/7,18/2,52/8,3104
+1124A Westwind 2,IAI,Jet,3700,476,415,89,9580,45000,29000,3500,900,5250,4200,2350,1850,23500,12800,52/3,15/9,44/9,2904
+1124 Westwind 1,IAI,Jet,3700,471,426,90,8710,45000,29000,3200,860,4950,3900,2450,1838,22850,12500,52/3,15/9,44/9,2440
+1123 Commodore Jet,IAI,Jet,3100,471,426,87,8620,45000,22500,4040,1100,5750,4600,2900,2275,20700,11500,52/3,15/9,44/8,1450
+1121 B Jet Commander,IAI,Jet,2950,471,426,84,7350,45000,25000,5000,1890,5450,4360,3900,2800,18500,10500,50/5,15/9,43/3,1100
+1121 Jet Commander,IAI,Jet,2850,471,426,82,6250,40000,25000,4400,1650,5400,4320,3900,1603,17500,10500,50/5,15/9,43/3,950
+J250-SP,"Jabiru USA Sport Aircraft, LLC",Piston,120,125,120,39,36,15000,,700,,,700,,640,1320,780,21/5,7/10,30/0,840
+J230-SP,"Jabiru USA Sport Aircraft, LLC",Piston,120,130,120,39,35,15000,,700,,,700,,640,1320,800,21/5,7/10,32/5,800
+J170-SP,"Jabiru USA Sport Aircraft, LLC",Piston,80,115,100,38,35,15000,,,,,459,,492,1320,680,19/0,7/6,31/8,1030
+LA-4 Amphibian,Lake Aircraft,Piston,180,122,114,39,40,13000,,800,,1275,650,900,475,2400,1555,24/11,9/4,38/0,296
+C-IV Amphibian,Lake Aircraft,Piston,180,123,117,45,30,13500,,800,,1375,650,900,475,2350,1520,23/6,8/1,34/0,305
+C-1 Amphibian,Lake Aircraft,Piston,150,109,97,50,30,9500,,700,,1550,750,900,475,2150,1450,23/6,8/1,34/0,320
+LA-4 Seaplane,Lake Aircraft,Piston,180,125,122,39,40,13500,,1000,,1250,960,,,2400,1345,24/11,8/5,38/0,296
+LA-4 Turbo-Lake,Lake Aircraft,Piston,180,149,143,39,40,20000,,800,,1275,650,900,475,2400,1575,24/11,9/4,38/0,543
+LA-4-200 Buccaneer (land specs) 1973 & prior,Lake Aircraft,Piston,200,,130,39,40,14700,,1200,,875,660,900,475,2600,1535,24/11,9/4,38/0,455
+LA-4-200 Buccaneer (land specs),Lake Aircraft,Piston,200,135,130,39,40,14700,,1200,,1050,600,950,475,2690,1555,24/11,9/4,38/0,455
+LA4/200EP,Lake Aircraft,Piston,200,,127,39,48,12500,,980,,,,,,2690,1660,25/0,9/4,38/0,800
+LA/250 Renegade,Lake Aircraft,Piston,250,,122,53,85,12500,,900,,,,,,3140,1850,28/1,10/0,38/0,1000
+LA-270 Turbo Seafury,Lake Aircraft,Piston,270,203,155,49,48,27000,,900,,,880,,475,3140,2075,28/4,10/1,38/4,1100
+XL2,Liberty Aerospace Inc.,Piston,125,162,125,49,30,,,682,,1496,822,1519,841,1750,1160,20/4,7/5,28/9,505
+Jetstar II,Lockheed Martin Aircraft,Jet,3700,490,438,,2660,43000,,4200,2500,,6200,3020,,43750,,60/5,20/5,54/5,2770
+Jetstar -8,Lockheed Martin Aircraft,Jet,3300,496,435,106,2660,43000,,4050,,,,3440,,41900,20999,60/5,20/5,54/5,
+Jetstar -6,Lockheed Martin Aircraft,Jet,3000,489,427,,2660,43000,,,,,3750,,2600,40921,,60/5,20/5,54/5,
+8 F,Luscombe Aircraft (Quartz Mountain Aero),Piston,90,96,83,37,25,16000,,660,,1850,850,1540,450,1400,870,20/0,6/3,35/0,273
+8 E,Luscombe Aircraft (Quartz Mountain Aero),Piston,85,91,83,37,30,15500,,640,,1850,850,1540,450,1400,791,19/8,6/1,34/7,346
+8 A,Luscombe Aircraft (Quartz Mountain Aero),Piston,65,91,78,37,14,14000,,550,,1950,1050,1540,450,1260,750,19/8,6/1,34/7,182
+Superstar II (600 series Aerostar),Machen Inc.,Piston,350,300,252,,,25000,23000,2010,450,2040,1710,,,Orig,,Orig,Orig,Orig,900
+Superstar I (601P Aerostar),Machen Inc.,Piston,325,260,250,77,165,,15000,1955,402,1980,1700,2076,1217,Orig,+200,Orig,Orig,Orig,1137
+350 Turbo A-36 Bonanza,Machen Inc.,Piston,350,230,213,,44,25000,,1517,,,,1450,840,Orig,+65,Orig,Orig,Orig,
+350 Turbo V-35B Bonanza,Machen Inc.,Piston,350,235,217,,44,25000,,1700,,,,1177,647,Orig,+35,Orig,Orig,Orig,
+MX-7-160,Maule Air Inc.,Piston,160,,135,40,40,13000,,825,,1180,600,500,,2200,1330,23/5,6/3,32/9,540
+MX-7-180A,Maule Air Inc.,Piston,180,,140,40,40,15000,,920,,1150,550,500,,2400,1350,23/5,6/3,32.9,500
+M-7-260,Maule Air Inc.,Piston,260,,142,34,73,20000,,1650,,600,250,500,,2500,1610,23/6,8/4,32/11,
+M-7-235,Maule Air Inc.,Piston,235,,148,30,40,20000,,1350,,600,125,600,,2500,1500,22/9,6/4,33/2,478
+M-6 (Land plane),Maule Air Inc.,Piston,235,157,129,38,40,20000,,1900,,540,150,540,,2500,1425,23/6,6/4,33/2,360
+M-5-235C,Maule Air Inc.,Piston,235,,150,33,40,20000,,1350,,600,150,600,300,2300,1400,23/6,6/4,30/10,360
+M-5-220C Lunar Rocket,Maule Air Inc.,Piston,220,157,150,33,42,19000,,1250,,585,150,600,200,2300,1300,23/2,6/4,30/10,485
+M-5-210TC (turbocharged),Maule Air Inc.,Piston,210,,170,33,40,20000,,1250,,600,150,600,,2300,1400,22/9,6/4,30/10,430
+M-5-210C Lunar Rocket,Maule Air Inc.,Piston,210,157,137,33,40,18000,,1250,,600,150,600,200,2300,1350,22/9,6/4,30/10,345
+M-5-180C,Maule Air Inc.,Piston,180,,136,33,40,15000,,900,,800,200,600,,2300,1300,22/9,6/4,30/10,525
+M-4-220C Strata Rocket,Maule Air Inc.,Piston,220,157,152,35,42,19000,,1250,,600,400,650,500,2300,1280,22/0,6/2,29/8,530
+M-4-210 C Rocket,Maule Air Inc.,Piston,210,157,143,35,42,18000,,1250,,585,380,600,450,2100,1250,22/0,6/2,29/8,500
+M-4-180-C Astro Rocket,Maule Air Inc.,Piston,180,148,135,35,42,17000,,1000,,700,,600,,2300,1250,22/6,6/2,29/8,525
+M-4 & M-4C Jetasen,Maule Air Inc.,Piston,145,157,130,35,42,12000,,700,,900,700,600,450,2100,1100,22/0,6/2,29/8,750
+M18 Dromader (ag plane),"Melex USA, Inc.",Piston,967,151,109,54,106,25000,,1400,,,624,1600,700,9300,5500,31/2,12/0,58/0,
+MU-300 Diamond II,Mitsubishi Diamond,Jet,2900,456,438,,4260,41000,,3180,1220,3950,,2930,,15780,9925,48/5,13/10,43/6,1530
+MU-300 Diamond IA,Mitsubishi Diamond,Jet,2500,430,400,77,4260,41000,,3050,761,3850,,2800,,14630,9410,48/5,13/10,43/6,1513
+MU-300 Diamond I,Mitsubishi Diamond,Jet,2500,434,410,77,646,41000,,3000,810,4100,,2700,,13890,8300,48/4,13/9,43/5,1510
+Marquise (MU-2B-60),Mitsubishi Diamond,Propjet,778,309,296,77,403,29750,14800,2200,410,2170,1825,1880,1128,11575,7650,39/5,13/8,39/2,1391
+Solitaire (MU-2B-40),Mitsubishi Diamond,Propjet,727,322,313,73,403,33500,16900,2350,475,1800,1550,1600,960,10470,7010,33/3,12/11,39/2,1600
+"MU-2M,-2P (-2P empty weight=7,025)",Mitsubishi Diamond,Propjet,724,317,304,73,364,32200,18000,2840,760,1800,1530,1600,960,10470,6864,33/3,12/11,39/2,1250
+"MU-2L,-2N (-2N empty weight=7,760)",Mitsubishi Diamond,Propjet,776,296,283,77,364,29600,15450,2630,675,2170,1845,1880,1128,11575,7570,39/5,13/8,39/2,1200
+MU-2K,Mitsubishi Diamond,Propjet,724,317,270,71,366,33200,19800,3100,920,1700,1445,1490,1090,9920,5920,33/3,12/11,39/2,1175
+MU-2J,Mitsubishi Diamond,Propjet,724,300,265,73,366,30800,18700,2690,845,1870,1500,1670,1060,10800,6800,39/5,13/8,39/2,1150
+MU-2G,Mitsubishi Diamond,Propjet,705,283,261,73,366,27000,11600,2590,725,1890,1500,1670,1050,10800,6700,39/5,13/8,39/2,1100
+MU-2F,Mitsubishi Diamond,Propjet,705,296,270,71,366,30400,14800,2875,920,1700,1445,1320,750,9920,5790,33/3,12/11,39/2,1150
+"MU-2B,-2D (-2D=9,350 gross weight)",Mitsubishi Diamond,Propjet,605,261,,64,285,26000,12500,2000,450,1600,1360,1100,780,8930,5730,33/3,13/0,39/2,880
+Acclaim (M20TN),Mooney Aircraft,Piston,280,242,237,59,100,25000,,1380,,,1378,,2198,3374,2370,26/9,8/4,36/5,1852
+Acclaim Ultra (M20V),Mooney Aircraft,Jet,280,242,175,56,89,25000,,1375,,2100,,2650,,3368,2380,26/8,8/4,36/6,1275
+TLS (M20M),Mooney Aircraft,Piston,270,236,223,58,96,25000,,1230,,2050,1080,2600,1200,3368,2353,26/11,8/4,36/1,
+Ovation (MS20R),Mooney Aircraft,Piston,280,197,191,60,95,21000,,1200,,1700,900,1600,1000,3368,2200,26/9,8/4,36/1,900
+PFM (M20L),Mooney Aircraft,Piston,217,161,,57,61,19300,,1030,,2550,1300,1910,800,2900,2003,26/11,8/4,36/1,
+M-22 pressurized,Mooney Aircraft,Piston,310,217,200,60,92,24000,,1120,,2079,1142,1549,958,3680,2380,26/1,9/1,35/0,813
+Ovation Ultra (M20U),Mooney Aircraft,Piston,310,197,170,59,100,20000,,1300,,2600,1600,2500,1100,3380,2250,26/8,8/4,36/6,1450
+M20S Eagle 2,Mooney Aircraft,Piston,244,195,145,59,75,18500,,,,,2550,,,3300,2194,26/11,8/4,36/1,980
+Encore (MS20K),Mooney Aircraft,Piston,220,213,197,60,80,25000,,1300,,2000,1300,2320,1100,3100,2000,25/5,8/4,36/1,1100
+252TSE (M20K),Mooney Aircraft,Piston,210,219,201,59,75,28000,,1080,,2200,1250,2300,1140,2900,1800,25/5,8/4,36/1,980
+205 (M20J),Mooney Aircraft,Piston,200,178,171,54,64,18600,,1060,,1700,900,1600,677,2740,1710,24/8,8/4,36/1,690
+231 (M20K) turbocharged,Mooney Aircraft,Piston,210,201,191,57,75,24000,,1080,,2060,1220,2280,1147,2900,1800,25/5,8/4,36/1,980
+201 (M20J) (prior'81 wing span=35/0),Mooney Aircraft,Piston,200,175,170,53,64,18800,,1030,,1550,880,1550,770,2740,1671,24/8,8/4,36/1,690
+"M-20F Executive 21 (prior'74=17,900 ceiling)",Mooney Aircraft,Piston,200,161,156,54,64,18800,,1055,,1385,879,1786,785,2740,1640,24/0,8/4,35/0,734
+"M-20-E Chaparral (prior'74=18,800 ceiling)",Mooney Aircraft,Piston,200,165,160,50,52,21200,,1125,,1550,760,1550,595,2575,1600,23/2,8/4,35/0,601
+M-20-G Statesman,Mooney Aircraft,Piston,180,155,147,50,52,17000,,875,,1250,815,1670,595,2525,1585,24/3,8/4,35/0,627
+M-20C Ranger ('77-'78),Mooney Aircraft,Piston,180,147,143,50,52,16500,,800,,1395,815,1610,595,2575,1525,23/2,8/4,35/0,659
+"M-20-C Ranger thru '76 (prior '74 = 17,500 service ceiling)",Mooney Aircraft,Piston,180,153,150,50,52,19500,,860,,1395,815,1550,595,2575,1525,23/2,8/4,35/0,659
+M-20-E Super 21 Chaparral,Mooney Aircraft,Piston,200,171,163,50,52,18800,,1110,,1300,760,1365,595,2575,1575,23/2,8/4,35/0,601
+M-20-C Mark 21,Mooney Aircraft,Piston,180,165,158,50,52,17200,,800,,1250,815,1550,595,2575,1525,23/2,8/4,35/0,659
+M-20-B Mark 21,Mooney Aircraft,Piston,180,165,158,50,52,18500,,1150,,1050,775,1100,600,2450,1525,23/2,8/4,35/0,745
+M-20-A Mark 20A,Mooney Aircraft,Piston,180,165,157,50,35,20000,,1150,,1050,775,1100,600,2450,1440,23/1,8/3,35/0,513
+M-20-Mark 20,Mooney Aircraft,Piston,150,149,143,50,35,17200,,900,,1150,870,1100,600,2450,1415,23/1,8/3,35/0,655
+M-20-D Master,Mooney Aircraft,Piston,180,128,117,50,52,13600,,740,,1125,750,1100,585,2500,1455,23/2,8/4,35/0,715
+M-10 Cadet,Mooney Aircraft,Piston,90,103,96,40,24,12500,,835,,953,334,1016,431,1450,950,20/8,7/8,30/0,484
+A 2-A Cadet,Mooney Aircraft,Piston,90,112,108,39,24,17300,,640,,1250,540,1350,350,1450,950,20/0,6/3,30/0,456
+M18 Mite,Mooney Aircraft,Piston,65,123,109,37,12,19400,,1000,,1000,750,1000,600,850,575,17/7,6/2,26/1,
+H-Rangemaster (1975-'76),Navion Aircraft International,Piston,285,177,166,48,40,21500,,1375,,980,737,980,763,3315,2000,27/5,8/6,34/9,335
+"G,G-1 Rangemaster (G=3,150 gross weight)",Navion Aircraft International,Piston,260,160,156,51,108,20500,,1150,,980,785,980,425,3315,1925,27/5,8/5,34/5,1043
+B,Navion Aircraft International,Piston,260,165,147,57,40,16600,,1110,,1100,800,1100,468,2850,1950,27/3,8/5,33/3,340
+A,Navion Aircraft International,Piston,205,142,135,57,40,15600,,1050,,900,561,1100,450,2750,1782,27/3,8/5,33/3,430
+Avanti P180,Piaggio America,Propjet,850,400,,90,2630,41000,,3000,900,2630,,2650,,10810,7200,47/3,13/1,46/0,1746
+PC-12,Pilatus Business Aircraft,Propjet,1200,270,265,64,402,30000,,1680,,2300,1475,1830,945,9920,5732,47/3,14/0,53/3,2261
+PA-42-1000 Cheyenne 400LS,Piper Aircraft,Propjet,1000,351,334,,3819,41000,28700,3242,997,1930,,2280,,12050,7856,43/5,17/0,47/8,1879
+PA-42-720 Cheyenne III A,Piper Aircraft,Propjet,720,312,288,89,578,35840,23200,2380,625,2280,1465,3043,1914,11200,6837,43/5,14/9,47/8,1722
+PA-42-720 Cheyenne III (prior'82=8 gal less fuel),Piper Aircraft,Propjet,720,290,275,87,390,32000,18200,2236,531,3230,2560,3017,1770,11200,6389,43/5,14/9,47/8,1515
+PA-31T-620 XL Cheyenne IIXL ('82-'83 specs),Piper Aircraft,Propjet,620,275,270,77,382,32400,14900,1750,470,2940,2042,2446,1571,9474,5164,36/8,12/9,42/8,1336
+A-31T-620 Cheyenne II,Piper Aircraft,Propjet,620,283,269,75,382,31600,14600,2710,660,1980,1410,2480,1430,9000,5018,34/8,12/9,42/8,1444
+PA-31T IA Cheyenne IA,Piper Aircraft,Propjet,500,261,247,71,366,28200,13750,1750,440,2444,1429,2263,1589,8700,5110,34/8,12/9,42/8,861
+PA-31T-500-I Cheyenne I (prior '80 less preform),Piper Aircraft,Propjet,500,248,236,72,300,28200,12500,1750,413,2444,1429,2263,1589,8700,4907,34/8,12/9,40/8,883
+PA-31 P Press Navajo (prior'77=6 gal more fuel),Piper Aircraft,Piston,425,243,220,73,186,29000,12100,1740,240,2200,1440,2700,1370,7800,5004,34/5,13/3,40/7,690
+PA-31P-350 Mojave,Piper Aircraft,Piston,350,242,220,75,238,26500,14300,1220,255,3035,2190,2305,1395,7200,5070,34/6,13/0,44/8,1190
+PA-31-350 Chieftain ('81=optional fuel),Piper Aircraft,Piston,350,230,211,74,182,24000,13700,1120,230,2510,1350,1880,1045,7000,4221,34/7,13/0,40/8,883
+PA-31-325 Navajo C/R ('81=optional fuel),Piper Aircraft,Piston,325,228,220,70,183,24000,15300,1220,255,2250,1000,1818,906,6500,4099,32/7,13/9,40/8,899
+"PA-31-310 Turbo Navajo B,C (prior '80 less fuel)",Piper Aircraft,Piston,310,227,194,70,187,24000,15200,1220,245,2160,1040,1818,906,6500,4003,32/7,12/0,40/8,965
+PA-31-310 Turbo Navajo,Piper Aircraft,Piston,310,226,215,62,150,26300,15800,1395,245,1760,890,1690,1115,6500,3842,32/5,13/0,40/6,840
+PA-31-300 Navajo,Piper Aircraft,Piston,300,195,183,61,150,20500,5750,1440,270,1950,930,1690,1115,6200,3605,32/6,13/0,40/6,753
+PA-23 F Turbo Aztec (prior'77=7 gal more fuel),Piper Aircraft,Piston,250,,215,55,137,24000,17000,1470,225,1980,1190,1585,951,5200,3323,31/2,10/1,37/4,565
+PA-23 E Turbo Aztec (1971 length=30/2),Piper Aircraft,Piston,250,220,197,59,144,30000,18700,1530,265,1250,820,1250,850,5200,3229,31/2,10/3,37/2,620
+PA-23 F Aztec (prior '77=7 gal more fuel),Piper Aircraft,Piston,250,,178,55,137,17600,4800,1400,235,1980,1190,1585,951,5200,3184,31/2,10/1,37/4,680
+"PA-23 D,E Aztec (prior '72 length=30/2)",Piper Aircraft,Piston,250,188,183,59,144,21100,6400,1490,240,1250,820,1250,850,5200,3042,31/2,10/3,37/2,722
+"PA-23 C,D Turbo Aztec (C=4 gal more fuel)",Piper Aircraft,Piston,250,223,205,59,140,30000,18500,1490,240,1250,820,1250,850,5200,3123,30/2,10/3,37/2,645
+PA-23 C Aztec,Piper Aircraft,Piston,250,188,179,59,144,19800,6400,1490,240,1250,820,1680,860,5200,2933,30/2,10/3,37/1,758
+"PA-23, B Aztec (B=30/2 length)",Piper Aircraft,Piston,250,187,178,54,144,22500,7500,1650,365,1100,750,1260,900,4800,2900,27/7,10/3,37/1,770
+"PA34-180, Seneca V",Piper Aircraft,Piston,220,205,174,61,122,25000,17400,,,1825,1525,2700,1400,4750,3375,28/6,9/9,38/9,700
+"PA34-220T, Seneca IV",Piper Aircraft,Piston,220,196,191,64,123,25000,12000,1400,240,1210,,1978,,4750,3314,28/6,9/9,38/9,
+PA-34-220T Seneca III (roc=t/o power),Piper Aircraft,Piston,220,196,178,64,93,25000,12000,1400,240,1210,920,1978,1400,4750,2852,28/6,9/9,38/9,725
+PA-34-200T C/R Turbo Seneca II,Piper Aircraft,Piston,200,196,177,62,93,25000,13400,1340,225,1240,870,2110,1380,4570,2841,28/7,9/11,38/11,725
+PA-34 C/R Seneca (1973-'74),Piper Aircraft,Piston,200,170,162,60,100,17900,3650,1360,190,1420,1000,1335,705,4200,2623,28/6,9/11,38/11,685
+PA-34-200 C/R Seneca (1972),Piper Aircraft,Piston,200,170,162,58,100,20000,6600,1460,230,1140,750,1335,705,4000,2586,28/6,9/11,38/11,685
+PA-44-180T Turbo Seminole,Piper Aircraft,Piston,180,195,183,56,108,20000,12500,1290,180,1500,900,1400,590,3925,2461,27/7,8/6,38/7,850
+PA-44-180 Seminole,Piper Aircraft,Piston,180,202,157,55,108,15000,3800,1340,212,1520,880,1238,590,3800,2406,27/6,8/5,38/6,681
+PA-39 C/R Turbo Twin Comanche,Piper Aircraft,Piston,160,214,192,61,120,25000,12600,1290,225,1590,990,1900,725,3725,2416,25/2,8/2,36/8,1188
+PA-39 C/R Twin Comanche,Piper Aircraft,Piston,160,178,172,61,90,20000,7100,1460,260,1530,940,1870,700,3600,2270,25/2,8/2,36/0,785
+PA-30 C Turbo Twin Comanche,Piper Aircraft,Piston,160,214,209,60,120,30000,17000,1290,225,1590,990,1900,1250,3725,2416,25/1,8/2,36/8,1100
+PA-30 C Twin Comanche,Piper Aircraft,Piston,160,178,172,60,90,20000,7100,1460,260,1530,940,1870,1215,3600,2270,25/1,8/2,36/0,785
+PA-30 B Turbo Twin Comanche,Piper Aircraft,Piston,160,209,194,60,120,30000,19000,1460,260,1570,950,1875,700,3725,2408,25/1,7/3,36/8,1100
+"PA-30,B Twin Comanche",Piper Aircraft,Piston,160,178,169,60,90,18600,5800,1460,260,1570,950,1875,700,3600,2210,25/1,7/3,36/0,770
+PA-23-235 Apache,Piper Aircraft,Piston,235,176,166,54,144,17200,6600,1450,220,1280,830,1360,950,4800,2735,27/7,10/3,37/1,710
+"PA-23-160 G,-H Apache",Piper Aircraft,Piston,160,159,150,53,72,17000,5500,1260,180,1550,1190,1360,750,3800,2230,27/4,9/6,37/1,616
+PA-23-150 Apache,Piper Aircraft,Piston,150,157,148,51,72,17000,5300,1250,240,1600,1190,1360,670,3500,2180,27/4,9/6,37/1,603
+M600 (SLS),Piper Aircraft,Propjet,600,274,257,,260,30000,,1556,,2635,,2659,,6000,3650,29/10,11/4,43/3,1484
+PA46-500TP Meridian,Piper Aircraft,Propjet,500,260,245,69,1139,30000,,1556,,2438,1650,2110,1020,5092,3417,29/7,11/4,43/0,1000
+M500,Piper Aircraft,Propjet,500,260,225,69,170,30000,,,,2438,1650,2110,1020,5092,3433,29/7,11/3,43,1000
+PA-46-350P Malibu Mirage,Piper Aircraft,Piston,350,232,201,60,120,25000,,1218,,2375,1530,1964,1018,4300,2790,28/6,11/5,43/0,1261
+M350,Piper Aircraft,Piston,350,213,203,58,120,25000,,,,2090,1087,1968,1020,4340,3050,28/9,11/3,43,1343
+PA-46-310P Malibu,Piper Aircraft,Piston,310,203,187,50,120,25000,,1143,,2025,1440,1800,1070,4100,2460,28/5,11/4,43/0,1261
+PA-24-400 Comanche,Piper Aircraft,Piston,400,194,185,59,100,19500,,1600,,1500,980,1820,1180,3600,2110,25/8,7/1,36/0,756
+PA-24-C 260 Comanche,Piper Aircraft,Piston,260,170,161,53,60,19500,,1320,,1400,820,1200,690,3200,1773,25/8,7/3,36/0,628
+"PA-24-260,B-260 (24-260=2,900 gross weight)",Piper Aircraft,Piston,260,169,158,53,60,20000,,1370,,1040,760,1015,655,3100,1728,25/3,7/3,36/0,638
+PA-24-250 Comanche,Piper Aircraft,Piston,250,165,157,53,60,20000,,1350,,1650,750,1025,600,2800,1690,24/1,7/3,36/0,630
+PA-24-180 Comanche,Piper Aircraft,Piston,180,145,139,53,60,18500,,910,,2240,750,1025,600,2550,1530,24/9,7/3,36/0,730
+PA-32R-301T Saratoga II TC,Piper Aircraft,Pistion,300,192,177,60,102,20000,,1119,,1800,1200,1520,640,3600,2464,27/9,8/6,36/2,822
+PA-32R-301 Saratoga II HP,Piper Aircraft,Piston,300,175,166,61,102,15588,,,,1770,1220,1520,640,3600,2411,27/11,8/6,36/2,859
+PA-32R-301T Turbo Saratoga SP (3-bld prop),Piper Aircraft,Piston,300,195,177,57,102,20000,,1120,,1420,960,1725,732,3600,2078,28/2,8/2,36/2,784
+PA-32R-301 Saratoga SP (3-blade prop),Piper Aircraft,Piston,300,163,158,57,102,15588,,1116,,1573,1013,1612,732,3600,1999,27/8,8/2,36/2,784
+PA32-301XTC,Piper Aircraft,Piston,300,172,161,59,102,20000,,,,1888,1397,1822,911,3600,2286,27/10,9/6,36/2,931
+PA32-301FT 6X,Piper Aircraft,Piston,300,155,148,59,102,17200,,,,2028,1284,1822,911,3600,2222,27/10,9/6,36/2,804
+PA-32RT-300T Turbo Lance II,Piper Aircraft,Piston,300,189,175,61,94,20000,,1050,,1875,1410,1760,1050,3600,2071,29/0,9/6,32/10,648
+"PA-32R,RT II-300 Lance ('76=height 8/2)",Piper Aircraft,Piston,300,165,156,61,94,15400,,1000,,2360,1450,1710,880,3600,1968,28/4,9/6,32/10,748
+PA-32-301T Turbo Saratoga (2-blade prop),Piper Aircraft,Piston,300,178,165,58,102,20000,,1075,,1590,1110,1725,732,3600,2003,28/2,8/2,36/2,627
+PA-32-301 Saratoga (2-blade prop),Piper Aircraft,Piston,300,152,150,58,102,14100,,990,,1759,1183,1612,732,3600,1940,27/8,8/2,36/2,745
+PA-32-300 '73-74 hgt=7/9 ('79 fuel=94 gal),Piper Aircraft,Piston,300,156,151,55,50,17100,,1050,,1350,900,1000,630,3400,1846,27/8,8/2,32/10,744
+"PA-32-300,B,C,D,E Cherokee Six (thru '72)",Piper Aircraft,Piston,300,151,146,55,50,16250,,1050,,1500,1050,1000,630,3400,1789,27/7,7/9,32/8,673
+PA-32-260 ('74-'78) 1974 height=7/9,Piper Aircraft,Piston,260,148,137,55,84,12800,,775,,1800,1200,1000,640,3400,1784,27/7,8/2,32/8,834
+"PA-32-260,C,D,E & '73 (c/s prop)",Piper Aircraft,Piston,260,144,137,55,50,14500,,850,,1240,740,1000,630,3400,1706,27/7,7/9,32/8,834
+PA-28-236 Dakota,Piper Aircraft,Piston,235,148,143,56,72,17500,,1110,,1216,886,1725,825,3000,1608,24/8,7/2,35/5,650
+PA-28-201T Turbo Dakota,Piper Aircraft,Piston,200,162,154,59,72,20000,,902,,1402,963,1697,861,2900,1579,25/0,7/7,35/0,591
+PA-28-235 Pathfinder,Piper Aircraft,Piston,235,140,126,53,62,13550,,800,,1260,800,1740,1040,3000,1592,24/1,7/5,32/0,485
+PA-28-235 Charger,Piper Aircraft,Piston,235,140,132,57,84,12000,,800,,1260,800,1740,1040,3000,1550,24/1,7/8,32/0,690
+"PA-28-235 C & D, E & F",Piper Aircraft,Piston,235,144,136,52,84,14500,,825,,1360,800,1300,680,2900,1467,23/7,7/3,32/0,710
+PA-28-235 B Cherokee,Piper Aircraft,Piston,235,144,136,52,50,14500,,825,,1040,600,1060,550,2900,1435,23/8,7/3,32/0,408
+"PA-28R-,RT-,201T Turbo Arrow III, IV",Piper Aircraft,Piston,200,177,172,61,72,20000,,940,,1620,1110,1555,645,2900,1692,27/4,8/4,35/5,695
+"PA28R-201 Arrow III, 28RT-201 Arrow IV",Piper Aircraft,Piston,200,149,138,55,72,16200,,831,,1600,1025,1525,615,2750,1637,24/7,7/9,35/4,695
+PA-28-200R Arrow II (1973-'76),Piper Aircraft,Piston,200,152,143,56,50,15000,,900,,1800,1025,1380,780,2650,1523,24/6,8/0,32/0,600
+PA-28-200 R & RB Arrow,Piper Aircraft,Piston,200,153,144,56,50,16000,,910,,1600,770,1380,780,2600,1459,24/2,8/0,30/0,600
+PA-28-180 R & RB Arrow,Piper Aircraft,Piston,180,148,141,53,50,15000,,875,,1240,820,1340,776,2500,1380,24/2,8/0,30/0,550
+"PA-28-181 Archer II ('79-'81=15,000 service ceiling)",Piper Aircraft,Piston,180,129,125,49,48,13236,,667,,1210,870,1390,925,2550,1416,24/0,7/3,35/5,565
+PA-28 180 Challenger & Archer,Piper Aircraft,Piston,180,129,123,53,50,14150,,725,,1625,720,1185,635,2450,1395,24/0,7/8,32/0,507
+"PA-28 D 180,E,F,G (G=13,000 service ceiling)",Piper Aircraft,Piston,180,132,124,50,50,16400,,750,,1620,720,1150,600,2400,1310,23/5,7/3,30/0,510
+"PA-28 B,C 180 Cherokee (C=15,700 svc. ceiling)",Piper Aircraft,Piston,180,132,124,50,50,16400,,750,,1620,720,1150,600,2400,1230,23/3,7/3,30/0,510
+PA-28 C 160 Cherokee,Piper Aircraft,Piston,160,127,119,48,50,15800,,730,,1650,740,890,550,2200,1215,23/3,7/3,30/0,703
+PA-28 C 150 Cherokee,Piper Aircraft,Piston,150,125,117,47,50,14900,,690,,1700,780,890,535,2150,1210,23/3,7/3,30/0,690
+"PA-28 160,B 160 Cherokee",Piper Aircraft,Piston,160,120,109,48,36,15000,,700,,1700,740,890,550,2200,1210,23/3,7/3,30/0,440
+"PA-28 150,B 150 Cherokee",Piper Aircraft,Piston,150,118,107,47,36,14300,,660,,1750,780,890,535,2150,1205,23/3,7/3,30/0,435
+"PA-28-161 Warrior II ('79-'81=14,000 svc. ceil)",Piper Aircraft,Piston,160,126,118,44,48,11000,,644,,1650,975,1160,595,2325,1344,23/8,7/3,35/0,525
+PA-28-151 Warrior (prior '77 stall=58),Piper Aircraft,Piston,150,117,110,44,48,12700,,649,,1760,1065,1115,595,2325,1336,23/8,7/3,35/0,626
+PA-28 140 Cherokee Cruiser,Piper Aircraft,Piston,150,124,110,48,36,10950,,631,,1700,800,1080,535,2150,1290,23/3,7/3,30/0,455
+"PA-28 140 B,C,D,E (B=23/4 lgt + 7/4 hgt)",Piper Aircraft,Piston,150,123,117,48,36,14300,,660,,1700,800,1080,535,2150,1237,23/3,7/3,30/0,480
+PA-28 140-4 Cherokee (high gross),Piper Aircraft,Piston,150,121,113,47,36,14300,,660,,1220,800,870,535,2150,1180,23/3,7/3,30/0,457
+PA-28 140 Cherokee (low gross),Piper Aircraft,Piston,150,125,117,45,36,15000,,820,,1150,725,850,485,1950,1180,23/3,7/3,30/0,457
+"PA-38 Tomahawk (prior'80 svc ceil=12,000)",Piper Aircraft,Piston,112,109,108,49,30,13000,,718,,1460,820,1544,707,1670,1128,23/1,9/1,34/0,384
+PA-36-375 Brave (spray restr. category),Piper Aircraft,Piston,375,120,104,,86,,,550,,1765,1220,1200,630,4800,2514,27/6,7/6,38/0,380
+PA-36-300 Brave (spray restr. category),Piper Aircraft,Piston,300,110,103,,86,,,375,,2090,1350,1470,715,4400,2290,26/10,7/6,38/10,491
+PA-36-285 Brave (normal category),Piper Aircraft,Piston,285,131,128,54,87,13000,,790,,1410,875,1650,700,3900,2140,27/4,7/5,39/0,660
+"PA-25-260 C,D Pawnee (normal) c/spd prop",Piper Aircraft,Piston,260,111,101,53,38,15800,,775,,1200,660,1105,850,2900,1488,24/7,7/2,36/2,230
+"PA-25 235 C,D Pawnee (normal category)",Piper Aircraft,Piston,235,108,99,53,36,14500,,700,,1350,785,1105,850,2900,1576,24/8,7/2,36/2,222
+PA-25 150 Pawnee,Piper Aircraft,Piston,150,98,83,50,42,11300,,505,,1370,625,930,400,2300,1100,24/7,7/2,36/2,400
+PA-22 160 Tri-Pacer,Piper Aircraft,Piston,160,123,117,42,36,16500,,800,,1480,1035,1280,650,2000,1110,20/5,8/3,29/3,435
+PA-22 150 Tri-Pacer,Piper Aircraft,Piston,150,122,113,43,36,16000,,750,,1600,1120,1280,650,1950,1060,20/4,8/3,29/3,430
+PA-22 135 Tri-Pacer,Piper Aircraft,Piston,135,119,107,42,36,15000,,620,,1600,1120,1280,650,1850,1060,20/4,8/3,29/3,470
+PA-22 108 Colt,Piper Aircraft,Piston,108,104,94,47,36,12000,,610,,1500,950,1250,500,1650,940,20/0,6/3,30/0,415
+PA-20 135 Pacer,Piper Aircraft,Piston,135,121,109,42,36,15000,,620,,1600,1120,1280,780,1950,1020,20/4,6/1,29/3,470
+PA-20 125 Pacer,Piper Aircraft,Piston,125,117,103,41,36,13750,,550,,1725,1210,1280,780,1800,1005,20/4,6/1,29/3,450
+PA-18 150 Super Cub,Piper Aircraft,Piston,150,113,100,37,36,19000,,960,,500,200,885,350,1750,983,22/6,6/8,35/4,400
+PA-18-150 Super Cub (float) (thru'76),Piper Aircraft,Piston,150,100,90,37,36,17500,,830,,990,700,730,430,1760,1190,23/9,10/3,35/3,365
+PA-18 135 Super Cub,Piper Aircraft,Piston,135,106,95,37,36,17250,,870,,750,525,725,350,1750,878,22/5,6/7,35/3,470
+PA-18 125 Super Cub,Piper Aircraft,Piston,125,109,97,36,36,18500,,940,,650,420,725,350,1500,845,22/5,6/7,35/3,450
+PA-18 95 Super Cub,Piper Aircraft,Piston,90,97,87,37,18,15750,,710,,1150,452,800,385,1500,800,22/5,6/6,35/3,230
+PA-16 Clipper,Piper Aircraft,Piston,115,109,97,43,36,13500,,600,,925,720,875,600,1650,850,20/1,6/2,29/2,368
+PA-14 Cruiser,Piper Aircraft,Piston,115,107,96,40,30,12500,,600,,965,720,850,470,1850,1020,23/1,6/4,35/4,364
+PA-12 Super Cruiser,Piper Aircraft,Piston,100,100,91,43,30,12300,,575,,720,410,470,360,1750,990,22/9,6/9,35/4,360
+PA-11,Piper Aircraft,Piston,90,197,87,35,18,18000,,900,,700,350,470,290,1220,730,22/4,6/8,35/2,230
+J-3 Cub,Piper Aircraft,Piston,65,76,65,33,9,11500,,450,,730,370,470,290,1220,680,22/4,6/8,35/2,146
+Kodiak 100,Quest Aircraft,Propjet,750,183,135,60,2144,25000,,1340,,,1468,,765,7255,4417,33/10,14/7,45,1132
+RAM 421CW (W = winglets),RAM Aircraft LP,Piston,375,230,223,,,,,,315,,,,,7560,+54,Orig,Orig,44/0,
+RAM 414AW-V (V = liquid-cooled),RAM Aircraft LP,Piston,350,240,230,,,,,,325,,,,,7105,+237,Orig,Orig,44/0,
+RAM 414AV-VII,RAM Aircraft LP,Piston,335,238,228,,,,,,312,,,,,7105,,Orig,Orig,44/0,
+RAM 414A-VII (no winglets),RAM Aircraft LP,Piston,335,232,225,,,,,,312,,,,,7105,,Orig,Orig,Orig,
+RAM 414AW-IV (W = winglets),RAM Aircraft LP,Piston,325,223,208,,,,,,340,,,,,7105,+37,Orig,Orig,44/0,
+"RAM 414A-IV, III or Super Ram",RAM Aircraft LP,Piston,325,215,200,,,,,,340,,,,,7105,NC,Orig,Orig,Orig,
+"RAM 414-IV, III or Super Ram",RAM Aircraft LP,Piston,325,215,200,,,,,,275,,,,,6510,NC,Orig,Orig,Orig,
+RAM 414-VI,RAM Aircraft LP,Piston,335,218,205,,,,,,310,,,,,6765,,Orig,Orig,Orig,
+"RAM 414-II (39"" MP)",RAM Aircraft LP,Piston,310,316,297,,,,,,,,,,,6510,NC,Orig,Orig,Orig,
+RAM 340/340A-VI,RAM Aircraft LP,Piston,335,228,210,,,,,,355,,,,,6390,,Orig,Orig,Orig,
+"RAM 340/340A-IV,III or Super Ram",RAM Aircraft LP,Piston,325,225,207,,,,,,340,,,,,6290,NC,Orig,Orig,Orig,
+"RAM 340/340A-II (39"" MP)",RAM Aircraft LP,Piston,310,220,203,,,,,,320,,,,,6140,NC,Orig,Orig,Orig,
+"RAM CT310P,Q,R /320-IV",RAM Aircraft LP,Piston,325,244,215,,,,,,640,,,,,5670,,Orig,Orig,Orig,
+"RAM CT310P,Q,R /320-I",RAM Aircraft LP,Piston,310,217,205,,,,,,490,,,,,5670,,Orig,Orig,Orig,
+RAM T310-IV (-P & -Q) / 320-IV,RAM Aircraft LP,Piston,325,244,215,,,,,,640,,,,,5670,NC,Orig,Orig,Orig,
+RAM T310-I (-P & -Q),RAM Aircraft LP,Piston,300,316,299,,,,,,,,,,,5700,NC,Orig,Orig,Orig,
+RAM T210 (G-J),RAM Aircraft LP,Piston,310,+5,+7,,,,,,,,,,,NC,NC,Orig,Orig,Orig,
+RAM T206-I (A-F),RAM Aircraft LP,Piston,310,+5,+7,,,,,,,,,,,NC,NC,Orig,Orig,Orig,
+RAM 172 (1963-'76),RAM Aircraft LP,Piston,160,+3,+4,,,,,,,,,,,NC,NC,Orig,Orig,Orig,
+RAM PA 28-140/151,RAM Aircraft LP,Piston,160,+3,+4,,,,,,,,,,,NC,NC,Orig,Orig,Orig,
+G3,"Remos Aircraft, Inc.",Piston,100,120,113,39,22,15000,,1300,,600,330,,590,1320,625,21/5,5/6,32/4,550
+Jet Prop 421 C,Riley Super Skyrocket,Propjet,850,310,,,,30000,25000,4000,1000,,,,,,,Orig,Orig,Orig,
+Jet Prop 421 (Cessna 421 conversion),Riley Super Skyrocket,Propjet,600,260,222,,1940,30000,18000,2500,737,,1000,2250,250,7450,,Orig,Orig,Orig,
+414 Rocket (Cessna 414 conversion),Riley Super Skyrocket,Piston,400,261,243,,240,30000,25000,2250,400,,,,,6825,,Orig,Orig,Orig,
+340 Rocket (Cessna 340 conversion),Riley Super Skyrocket,Piston,350,252,240,,203,30000,20700,2150,500,,,1840,,6290,,Orig,Orig,Orig,
+Super 340 (Cessna 340 conversion),Riley Super Skyrocket,Piston,310,252,235,70,100,32000,16000,1800,350,1950,1500,1840,1760,5975,+22lb,Orig,Orig,Orig,
+TurboStream (Cessna 310 & 320 conv) 350hp,Riley Super Skyrocket,Piston,350,283,261,73,100,35000,25000,2900,600,1340,1000,1790,640,5400,+150 lb,Orig,Orig,Orig,
+TurboStream (Cessna 310 & 320 conv) 310hp,Riley Super Skyrocket,Piston,310,274,252,73,100,35000,25000,2100,500,1440,1100,1790,640,5400,+150 lb,Orig,Orig,Orig,
+Turbo Rocket (Cessna 310 conversion),Riley Super Skyrocket,Piston,290,270,263,62,170,35000,28000,2200,500,985,,1750,,4830,3300,Orig,Orig,Orig,
+Rocket (Cessna 310 conversion),Riley Super Skyrocket,Piston,290,230,219,62,170,22500,11000,2000,500,985,,1750,,4830,3100,Orig,Orig,Orig,
+305 Rocket,Rocket Engineering / JetPROP LLC,TSIO 520,305,230,215,60,75,24000,,1800,,1200,800,1500,900,3200,2070,25/5,8/4,36/1,900
+300 Missle,Rocket Engineering / JetPROP LLC,IO550,300,185,180,60,64,18800,,1700,,1200,800,1500,900,3200,2010,25/5,8/4,36/1,767
+JetProp DLX,Rocket Engineering / JetPROP LLC,PT6A-35,560,265+,262,60,151,27000,,3000,,1200,800,1000,800,4318,2900,30/1,11/3,43,1000
+JetProp DL,Rocket Engineering / JetPROP LLC,PT6A-21,550,254+,250,60,151,27000,,2500,,1200,800,1000,800,4318,2900,30/1,11/3,43,1000
+TurbineAir,Rocket Engineering / JetPROP LLC,PT6A-21,500,250+,245,56,120,25000,,2500,,1150,750,1000,600,4021,2800,30/6,8/5,37/10,900
+"200 D Meyers (Prop Jets, Inc.)",Rockwell Meyers 200,Piston,285,187,183,47,80,18500,,1450,,1150,900,1150,850,3000,1940,24/4,7/4,30/6,746
+"200 B Meyers (Prop Jets, Inc.)",Rockwell Meyers 200,Piston,260,188,170,54,40,19700,,1245,,1260,1010,1150,850,3000,1975,24/4,8/6,30/5,370
+"200 Meyers (Prop Jets, Inc.)",Rockwell Meyers 200,Piston,260,188,170,50,70,18500,,1150,,1375,1100,1150,850,3000,1870,24/5,8/5,30/5,688
+100-180 Lark (S.L. Industries),Rockwell Meyers 200,Piston,180,120,115,55,44,11000,,648,,1575,875,1280,675,2450,1532,24/9,10/1,35/0,470
+100 Darter (S.L. Industries),Rockwell Meyers 200,Piston,150,116,111,51,44,13000,,785,,1550,870,1215,650,2250,1280,22/6,9/4,35/0,610
+100 (Formerly Volair) (S.L. Industries),Rockwell Meyers 200,Piston,135,123,111,42,44,13000,,850,,950,750,750,650,2250,1280,22/6,9/4,35/0,642
+A9 Quail & Sparrow (See Aircraft Parts & Dev.),Rockwell Meyers 200,,,,,,,,,,,,,,,,,,,,
+"B1,B1A AG Commander (S.L. Industries)",Rockwell Meyers 200,Piston,450,103,91,59,40,14000,,650,,800,600,670,447,3000,1600,24/0,8/0,35/0,273
+Sabre 75A,Sabreliner Corp.,Jet,4500,490,436,89,7380,45000,24000,4500,1050,4380,,2625,,23000,13200,47/2,17/3,44/5,1483
+Sabre 75,Sabreliner Corp.,Jet,3300,490,430,89,7380,45000,25000,4000,1000,5500,,2760,,21000,12200,47/2,17/3,44/5,2520
+Sabre 65,Sabreliner Corp.,Jet,3700,464,424,82,8844,45000,23000,3540,893,5895,,2720,,24000,13754,46/11,16/0,50/5,2480
+Sabre 60,Sabreliner Corp.,Jet,3300,490,430,86,7122,45000,26000,4700,1100,5300,,2365,,20172,11250,46/11,16/0,44/8,1640
+Sabre 40A,Sabreliner Corp.,Jet,3300,490,430,83,7122,45000,20500,4700,1200,4900,,2350,,19612,10500,43/9,16/0,44/4,1640
+NA265 (40 Sabreliner) 8 engines,Sabreliner Corp.,Jet,3300,490,430,83,7122,45000,20500,5050,1300,4450,,2250,,18650,10500,43/9,16/0,44/4,1640
+"Beech V35,A,B",Sierra Industries,,,,,51,,,,,,1377,785,914,478,,+20,,,,
+Cessna 421C,Sierra Industries,,,,,71,,,,,,1830,1280,1700,1020,,+50,,,,
+Cessna 421B,Sierra Industries,,,,,76,,,,,,1754,1204,1752,1102,,+50,,,,
+"Cessna 421,-A",Sierra Industries,,,,,76,,,,,,1815,1265,1720,1070,,+50,,,,
+Cessna 414A,Sierra Industries,,,,,65,,,,,,1775,1225,1400,800,,+50,,,,
+Cessna 414,Sierra Industries,,,,,69,,,,,,1630,1130,1450,850,,+50,,,,
+Cessna 402C,Sierra Industries,,,,,68,,,,,,1800,1250,1477,877,,+50,,,,
+"Cessna 402,-B; 401,-A",Sierra Industries,,,,,71,,,,,,1550,1000,1450,800,,+50,,,,
+"Cessna 340, -A",Sierra Industries,,,,,61,,,,,,1610,1210,1360,735,,+44,,,,
+Cessna 310 series,Sierra Industries,,,,,59,,,,,,1470,1175,1165,670,,+44,,,,
+"Cessna 337 (turbo, pressurized)",Sierra Industries,,,,,40,,,,,,756,475,731,450,,+22,,,,
+Cessna P210,Sierra Industries,,,,,51,,,,,,1025,715,783,400,,+22,,,,
+Cessna 210,Sierra Industries,,,,,42,,,,,,1070,760,783,400,,+22,,,,
+Cessna 207,Sierra Industries,,,,,42,,,,,,1090,870,800,560,,+20,,,,
+Cessna 206,Sierra Industries,,,,,41,,,,,,890,450,740,390,,+15,,,,
+Cessna 188,Sierra Industries,,,,,41,,,,,,1700,840,300,420,,+30,,,,
+Cessna 185,Sierra Industries,,,,,40,,,,,,763,430,755,265,,+13,,,,
+Cessna 182,Sierra Industries,,,,,38,,,,,,815,470,777,405,,+13,,,,
+Cessna 180,Sierra Industries,,,,,36,,,,,,710,370,688,245,,+13,,,,
+Cessna 172,Sierra Industries,,,,,32,,,,,,900,540,995,270,,+13,,,,
+Cessna 150,Sierra Industries,,,,,29,,,,,,815,,632,,,+19,,,,
+Piper PA-23-250 Aztec,Sierra Industries,,,,,52,,,,,,985,610,1270,500,,+20,,,,
+"Piper PA-34 Seneca I,II",Sierra Industries,,,,,58,,,,,,1090,560,1880,500,,+22,,,,
+"Piper PA-30,-39",Sierra Industries,,,,,52,,,,,,1120,590,1165,500,,+20,,,,
+"Piper PA-24-180,-250,-260",Sierra Industries,,,,,45,,,,,,1130,655,880,500,,+22,,,,
+Piper PA-32,Sierra Industries,,,,,52,,,,,,1050,580,850,500,,+22,,,,
+Sting Sport S3,Sportair USA LC,Piston,100 hp,120,116,34,22,,,1000,,745,295,1020,345,1320,780,20/4,6/4,29/11,495
+108-3,Stinson,Piston,165,124,105,57,50,850,1400,980,,1500,,940,,2400,1300,25/2,7/5,34/0,594
+108-1,Stinson,Piston,150,122,103,54,50,16800,,875,,1350,945,1400,940,2100,1175,25/2,7/5,34/0,600
+GC-1B,Swift,Piston,125,130,122,43,30,16000,,1000,,1185,830,880,650,1710,1125,20/9,6/1,29/3,432
+SA-160,Symphony Aircraft Industries,Piston,160,162,128,48,30,16400,,850,,1214,919,1837,755,2150,1450,22/8,9/25,35,
+F-21B,Taylorcraft Inc.,Piston,118,109,100,42,40,18000,,750,,1140,720,,500,1750,1040,22/3,6/6,36/0,296
+"F-21,F-21A (-21A=40 gal fuel + empty wgt=1,000)",Taylorcraft Inc.,Piston,115,109,103,37,24,18000,,875,,350,275,350,,1500,990,22/3,6/6,36/0,296
+"F-19, Sportsman 100",Taylorcraft Inc.,Piston,100,110,100,37,24,18000,,775,,375,300,375,,1500,900,22/1,6/6,36/0,290
+P2006T,Tecnam Aircraft,piston,100,148,135,49,51,15000,7500,1140,230,1213,898,1279,656,2599,1723,28/6,9/4,37/5,620
+A-36 Bonanza Prop Jet,Tradewind Turbines,Propjet,450,220,220,57,114,25000,,2500,,900,600,525,325,3849,2400,29/2,8/7,33/5,985
+1000 Jet Prop,Twin Commander A/C,Propjet,820,309,303,77,474,35500,21310,2802,945,2131,1407,2186,1395,11200,7192,42/11,14/11,52/1,2080
+980 Jet Prop,Twin Commander A/C,Propjet,733,310,303,75,474,37100,24850,2777,982,1830,1299,1958,1277,10325,6727,42/11,14/11,52/1,2040
+900 Jet Prop,Twin Commander A/C,Propjet,748,290,286,77,425,32245,18140,2779,960,1937,1411,2202,1387,10700,6992,42/11,14/11,52/1,1722
+"690B,I,II Prop Jet(I empty weight=6,195)",Twin Commander A/C,Propjet,717.5,286,281,77,384,32800,19600,2821,878,2259,1458,2100,,10325,6733,44/4,14/11,46/8,1419
+"690A, Prop Jet (690 length=43/0 & height=14/11)",Twin Commander A/C,Propjet,717.5,285,279,77,384,32900,19700,2849,893,2216,1666,2084,,10250,6225,44/4,14/10,46/7,1471
+840 Jet Prop,Twin Commander A/C,Propjet,717.5,291,286,75,425,34050,21050,2824,1003,1854,1285,1971,1240,10325,6629,42/11,14/11,52/1,1780
+720 Alti-Cruiser,Twin Commander A/C,Piston,340,235,204,62,223,25360,11000,1580,310,1570,1256,1625,1140,7500,5230,35/1,14/5,49/0,1217
+700 (Fuji),Twin Commander A/C,Piston,340,221,212,69,210,27400,10600,1578,180,2264,1604,2154,,6947,4704,38/2,13/4,42/5,
+685 pressurized,Twin Commander A/C,Piston,435,242,222,75,256,27500,12400,1490,247,2711,1949,2312,,9000,6021,43/0,14/11,46/7,1170
+"681 Hawk, 681B Turbo Commander",Twin Commander A/C,Propjet,575,252,236,89,286,25600,10500,2007,484,2016,1706,2504,1200,9400,5515,43/0,14/6,44/1,1296
+680 W Turbo II Prop Jet,Twin Commander A/C,Propjet,575,252,243,89,286,26500,11000,2025,510,1975,1660,2460,1200,9400,6423,43/0,14/6,44/0,957
+"680 T,V Prop Jet",Twin Commander A/C,Propjet,575,252,248,71,287,30000,11000,2000,650,1975,1700,2460,1200,9400,5100,41/3,14/6,49/6,956
+680 FLP Pressurized Grand,Twin Commander A/C,Piston,380,230,209,71,223,28500,11500,1285,240,1740,1560,1360,1200,8500,5600,41/3,14/9,49/6,1139
+680 FL Courser,Twin Commander A/C,Piston,380,239,204,74,223,27500,11500,1282,252,1780,1250,1365,1000,8500,5449,41/6,14/6,49/3,1139
+680 FL Grand,Twin Commander A/C,Piston,380,235,212,71,223,26500,11500,1200,240,1740,1560,1360,1200,8500,5600,41/3,14/5,49/5,1139
+680 F,Twin Commander A/C,Piston,380,244,221,67,223,27400,12700,1440,293,1320,1050,1630,1150,8000,4780,35/1,14/5,49/5,1139
+680 E,Twin Commander A/C,Piston,340,235,204,67,223,26000,11500,1440,300,1565,1175,1450,1015,7500,5230,35/1,14/5,49/0,1217
+680 Super,Twin Commander A/C,Piston,340,226,200,67,223,25570,11000,1625,310,1565,1180,1630,1020,7000,4443,35/1,14/5,44/1,1217
+560 F,Twin Commander A/C,Piston,350,216,200,63,223,21900,9800,1587,490,1270,1070,1410,1210,7500,4680,35/1,14/5,49/5,1522
+560 E,Twin Commander A/C,Piston,295,193,184,58,223,21500,9500,1450,300,1450,1160,1500,1050,6500,4300,35/1,14/5,49/0,1413
+560 A-HC,Twin Commander A/C,Piston,295,193,184,58,156,22000,9750,1510,380,1250,1050,1370,960,6000,4250,35/1,14/5,49/0,826
+560 A,Twin Commander A/C,Piston,275,183,174,58,156,21500,9500,1400,360,1210,950,1370,900,6000,4198,35/1,14/5,44/1,913
+560,Twin Commander A/C,Piston,270,179,171,52,150,21500,9250,1400,400,1100,950,1050,900,6000,3900,35/5,14/5,44/1,887
+500 S Shrike Commander & (Esquire thru'76),Twin Commander A/C,Piston,290,187,177,59,156,19400,6500,1340,266,1915,1100,2235,975,6750,4635,36/10,14/6,49/1,693
+500 U,Twin Commander A/C,Piston,290,204,190,59,156,21000,8000,1450,340,1375,1100,1235,865,6750,4348,35/1,14/6,49/1,1060
+500 B,Twin Commander A/C,Piston,290,198,190,59,156,24000,8500,1700,340,1375,1100,1235,865,6750,4350,35/1,14/9,49/5,957
+500 A,Twin Commander A/C,Piston,260,198,190,54,156,22500,7850,1400,320,1210,970,1150,865,6250,4255,35/1,14/5,49/5,957
+500,Twin Commander A/C,Piston,250,190,178,55,156,22500,7150,1400,290,1250,1000,1350,950,6000,3850,35/1,14/5,49/0,957
+520,Twin Commander A/C,Piston,260,183,171,52,150,24000,8500,1700,400,1100,950,1050,900,5500,3800,35/5,14/5,44/1,1000
+2180,Varga,Piston,180,130,116,45,33,22000,,1310,,,,,,1817,1175,21/2,7/0,30/0,365
+2150A Kachina,Varga,Piston,150,117,104,45,33,22000,,910,,,,,,1817,1125,21/2,7/0,30/0,380
