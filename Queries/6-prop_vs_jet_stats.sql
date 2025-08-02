@@ -13,5 +13,3 @@ FROM aircraft_specs aspec
 JOIN aircraft_models am ON aspec.model_id = am.model_id
 JOIN engine_types e ON am.engine_type_id = et.engine_type_id
 GROUP BY et.type_name;
-
-SELECT * FROM prop_vs_jet_stats;
