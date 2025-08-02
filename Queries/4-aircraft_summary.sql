@@ -18,6 +18,4 @@ JOIN aircraft_models am ON aspec.model_id = am.model_id
 JOIN companies c ON am.company_id = c.company_id
 GROUP BY c.company_name;
 
-select*
-from aircraft_summary;
 
