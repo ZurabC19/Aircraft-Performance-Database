@@ -1,8 +1,6 @@
 # 📊 Aircraft Performance Database — Query Results
 
-This document contains sample outputs from key queries, views, and stored procedures defined in the project. Each output showcases how the transformed and normalized data is used to generate meaningful insights.
 
----
 
 ## 1. ✅ `pilot_compatibility` (First 10 Rows)
 
