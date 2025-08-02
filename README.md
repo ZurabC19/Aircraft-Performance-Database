@@ -4,7 +4,8 @@
 This project transforms a raw dataset of aircraft specifications into a fully normalized (2NF) relational database. Using ETL (Extract, Transform, Load) techniques, it cleans noisy strings, separates composite units (e.g., ft/in), and builds structured lookup tables for companies, engine types, and aircraft models. Advanced SQL views and procedures generate performance metrics, rankings, and insights for pilots and engineers.
 
 ---
-![aircraft-db (1)](https://github.com/user-attachments/assets/82748436-a682-49c6-bbbe-b2acae5d98f7)
+![aircraft-db (3)](https://github.com/user-attachments/assets/8900deab-3eaf-4e81-b188-2068e2e3da92)
+
 
 ## 🚀 Features
 
